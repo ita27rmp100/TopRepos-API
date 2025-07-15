@@ -7,10 +7,6 @@ const logger = require('morgan');
 const {exec} = require("child_process")
 const fs = require("fs")
 
-const indexRouter = require('./routes/index');
-const topReposRouter = require('./routes/country');
-const loadingRouter = require("./routes/loading")
-
 const app = express();
 // working on data 
 const countries = require("./countryList.json").countries.sort()
@@ -21,24 +17,26 @@ function RecursivePushCountryData(index){
       if(error) console.log("Error :",error)
       setTimeout(()=>{RecursivePushCountryData(index+1)},5000)
     })
+    RecursivePushCountryData((index+1)%countries.length)
+    RecursivePushCountryData((index+1)%countries.length)
+    RecursivePushCountryData(i+1)
+  }
+  if (Math.floor((current-lastUpdate)/(3600*1000))>24){
+    fs.writeFileSync(
+        path.join(__dirname, "countryList.json"),
+        JSON.stringify({
+        ...require("./countryList.json"),
+        LastUpdate: new Date().toISOString().replace("T"," ").replace("Z","")
+        }, null, 2)
+    )
   }
 }
 
-setInterval(()=>{
-  let lastUpdate = new Date(require("./countryList.json").LastUpdate)
-  const current = new Date()
-  if (Math.floor((current-lastUpdate)/(3600*1000))>24){
-    fs.writeFileSync(
-      path.join(__dirname, "countryList.json"),
-      JSON.stringify({
-        ...require("./countryList.json"),
-        LastUpdate: new Date().toISOString().replace("T"," ").replace("Z","")
-      }, null, 2)
-    )
-    RecursivePushCountryData(0)
-  }
-},10000)
-// post data of form
+let lastUpdate = new Date(require("./countryList.json").LastUpdate)
+const current = new Date() ; ; countryNum = Object.keys(countries).length
+
+
+
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -49,11 +47,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
-// use router
-app.use('/', indexRouter);
-app.use('/country', topReposRouter);
-app.use('/load',loadingRouter)
-app.use('/loading', loadingRouter);
+
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   next(createError(404));

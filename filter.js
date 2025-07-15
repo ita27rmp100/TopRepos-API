@@ -6,7 +6,7 @@ async function getTopUsers(country) {
     const url = `https://committers.top/rank_only/${country}.json`;
     let response = await fetch(url);
     let data = await response.json();
-    let topUsers = data.user.slice(0, 150);
+    let topUsers = data.user.slice(0, 10);
     // Filter users based on account age
     let filteredUsers = [];
     for (let i = 0; i < topUsers.length; i++) {
@@ -65,13 +65,11 @@ getTopUsers(country).then(filteredUsers => {
     let TopList = '' , CountryJSON = {}
     getTopRepos(filteredUsers).then(bestProjects=>{
         for (let rank = 0; rank < bestProjects.length && rank < 15; rank++) {
-            const p = bestProjects[rank];
-            TopList += `<new-repo username="${p.repoFullName.slice(0,p.repoFullName.indexOf('/'))}" reponame="${p.repoFullName.slice(p.repoFullName.indexOf('/')+1)}" avatar="${p.avatar}" rank="${rank+1}" points="${p.totalPoints}"></new-repo> \n`;
-            CountryJSON[String(rank+1)] = p
+            CountryJSON[String(rank+1)] = bestProjects[rank]
         }
         // write json code
-        const path_JSON = `./routes/CountryJSON/${country}.json`;
-        fs.mkdirSync('./routes/CountryJSON', { recursive: true });
+        const path_JSON = `./CountryJSON/${country}.json`;
+        fs.mkdirSync('./CountryJSON', { recursive: true });
         fs.writeFile(path_JSON, JSON.stringify(CountryJSON, null, 2), (err) => {
             if (err) {
                 console.error('Error writing file:', err);
