@@ -29,4 +29,14 @@ function RecursivePushCountryData(index){
   }
 }
 RecursivePushCountryData(0)
+// post data
+app.get('/get/countrey')
+
+// add ping
+app.get('/ping',(req,res)=>{
+  res.json({msg:'pong'})
+})
+
+
+
 module.exports = app;
