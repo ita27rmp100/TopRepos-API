@@ -30,7 +30,15 @@ function RecursivePushCountryData(index){
 }
 RecursivePushCountryData(0)
 // post data
-app.get('/get/countrey')
+app.get('/',(req,res)=>{
+  if(Object.keys(req.query).length===0)return res.json({msg:"empty query"}) 
+  try{
+    const data = require(`${__dirname}/CountryJSON/${req.query.country}.json`)
+    res.json(data)
+  }catch(err){
+    res.json({'error':err.code})
+  }
+})
 
 // add ping
 app.get('/ping',(req,res)=>{
