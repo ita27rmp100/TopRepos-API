@@ -24,8 +24,8 @@ function RecursivePushCountryData(index){
     exec(`node filter.js ${country}`,(error,stdout,stderr)=>{
       if(error){console.log("Error :",error) ; return}
       console.log(`${country} : done`)
-      RecursivePushCountryData((index+1)%countries.length)
     })
+    RecursivePushCountryData((index+1)%countries.length)
   }
 }
 RecursivePushCountryData(0)
