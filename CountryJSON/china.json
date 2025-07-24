@@ -1,1 +1,252 @@
-{}
+{
+  "1": {
+    "repoFullName": "Anduin2017/HowToCook",
+    "totalPoints": 233516,
+    "avatar": "https://avatars.githubusercontent.com/u/19531547?v=4"
+  },
+  "2": {
+    "repoFullName": "jaywcjlove/awesome-mac",
+    "totalPoints": 216322.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1680273?v=4"
+  },
+  "3": {
+    "repoFullName": "ruanyf/weekly",
+    "totalPoints": 175985.5,
+    "avatar": "https://avatars.githubusercontent.com/u/905434?v=4"
+  },
+  "4": {
+    "repoFullName": "hiyouga/LLaMA-Factory",
+    "totalPoints": 139986,
+    "avatar": "https://avatars.githubusercontent.com/u/16256802?v=4"
+  },
+  "5": {
+    "repoFullName": "justjavac/awesome-wechat-weapp",
+    "totalPoints": 125196.5,
+    "avatar": "https://avatars.githubusercontent.com/u/359395?v=4"
+  },
+  "6": {
+    "repoFullName": "tw93/Pake",
+    "totalPoints": 104538.5,
+    "avatar": "https://avatars.githubusercontent.com/u/8736212?v=4"
+  },
+  "7": {
+    "repoFullName": "sorrycc/awesome-javascript",
+    "totalPoints": 88251,
+    "avatar": "https://avatars.githubusercontent.com/u/35128?v=4"
+  },
+  "8": {
+    "repoFullName": "jaywcjlove/linux-command",
+    "totalPoints": 87677.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1680273?v=4"
+  },
+  "9": {
+    "repoFullName": "huiyadanli/RevokeMsgPatcher",
+    "totalPoints": 85722,
+    "avatar": "https://avatars.githubusercontent.com/u/15783049?v=4"
+  },
+  "10": {
+    "repoFullName": "YunaiV/ruoyi-vue-pro",
+    "totalPoints": 84542.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2015545?v=4"
+  },
+  "11": {
+    "repoFullName": "vnpy/vnpy",
+    "totalPoints": 82622.5,
+    "avatar": "https://avatars.githubusercontent.com/u/11263900?v=4"
+  },
+  "12": {
+    "repoFullName": "lizongying/my-tv",
+    "totalPoints": 81946.5,
+    "avatar": "https://avatars.githubusercontent.com/u/16871545?v=4"
+  },
+  "13": {
+    "repoFullName": "xuxueli/xxl-job",
+    "totalPoints": 77852,
+    "avatar": "https://avatars.githubusercontent.com/u/10633817?v=4"
+  },
+  "14": {
+    "repoFullName": "sunface/rust-course",
+    "totalPoints": 71609,
+    "avatar": "https://avatars.githubusercontent.com/u/7036754?v=4"
+  },
+  "15": {
+    "repoFullName": "songquanpeng/one-api",
+    "totalPoints": 67508,
+    "avatar": "https://avatars.githubusercontent.com/u/39998050?v=4"
+  },
+  "16": {
+    "repoFullName": "the1812/Bilibili-Evolved",
+    "totalPoints": 66291.5,
+    "avatar": "https://avatars.githubusercontent.com/u/26504152?v=4"
+  },
+  "17": {
+    "repoFullName": "Molunerfinn/PicGo",
+    "totalPoints": 64721.5,
+    "avatar": "https://avatars.githubusercontent.com/u/12621342?v=4"
+  },
+  "18": {
+    "repoFullName": "onevcat/Kingfisher",
+    "totalPoints": 61116,
+    "avatar": "https://avatars.githubusercontent.com/u/1019875?v=4"
+  },
+  "19": {
+    "repoFullName": "jingyaogong/minimind",
+    "totalPoints": 59828.5,
+    "avatar": "https://avatars.githubusercontent.com/u/62287848?v=4"
+  },
+  "20": {
+    "repoFullName": "ruanyf/es6tutorial",
+    "totalPoints": 58067,
+    "avatar": "https://avatars.githubusercontent.com/u/905434?v=4"
+  },
+  "21": {
+    "repoFullName": "Vonng/ddia",
+    "totalPoints": 56007.5,
+    "avatar": "https://avatars.githubusercontent.com/u/8587410?v=4"
+  },
+  "22": {
+    "repoFullName": "timqian/chinese-independent-blogs",
+    "totalPoints": 55908.5,
+    "avatar": "https://avatars.githubusercontent.com/u/5512552?v=4"
+  },
+  "23": {
+    "repoFullName": "ruanyf/jstraining",
+    "totalPoints": 51925.5,
+    "avatar": "https://avatars.githubusercontent.com/u/905434?v=4"
+  },
+  "24": {
+    "repoFullName": "chai2010/advanced-go-programming-book",
+    "totalPoints": 51086.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2295542?v=4"
+  },
+  "25": {
+    "repoFullName": "maotoumao/MusicFree",
+    "totalPoints": 47661.5,
+    "avatar": "https://avatars.githubusercontent.com/u/31655147?v=4"
+  },
+  "26": {
+    "repoFullName": "JacksonTian/fks",
+    "totalPoints": 47194.5,
+    "avatar": "https://avatars.githubusercontent.com/u/327019?v=4"
+  },
+  "27": {
+    "repoFullName": "whyour/qinglong",
+    "totalPoints": 46679.5,
+    "avatar": "https://avatars.githubusercontent.com/u/22700758?v=4"
+  },
+  "28": {
+    "repoFullName": "YunaiV/yudao-cloud",
+    "totalPoints": 46151,
+    "avatar": "https://avatars.githubusercontent.com/u/2015545?v=4"
+  },
+  "29": {
+    "repoFullName": "taizilongxu/interview_python",
+    "totalPoints": 45158,
+    "avatar": "https://avatars.githubusercontent.com/u/4475914?v=4"
+  },
+  "30": {
+    "repoFullName": "easychen/howto-make-more-money",
+    "totalPoints": 44272.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1294760?v=4"
+  },
+  "31": {
+    "repoFullName": "ginuerzh/gost",
+    "totalPoints": 43421.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2801795?v=4"
+  },
+  "32": {
+    "repoFullName": "yetone/avante.nvim",
+    "totalPoints": 38340.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1206493?v=4"
+  },
+  "33": {
+    "repoFullName": "avwo/whistle",
+    "totalPoints": 37962,
+    "avatar": "https://avatars.githubusercontent.com/u/11450939?v=4"
+  },
+  "34": {
+    "repoFullName": "taowen/awesome-lowcode",
+    "totalPoints": 36913,
+    "avatar": "https://avatars.githubusercontent.com/u/40541?v=4"
+  },
+  "35": {
+    "repoFullName": "wong2/chatgpt-google-extension",
+    "totalPoints": 33674,
+    "avatar": "https://avatars.githubusercontent.com/u/321947?v=4"
+  },
+  "36": {
+    "repoFullName": "sunface/rust-by-practice",
+    "totalPoints": 33228.5,
+    "avatar": "https://avatars.githubusercontent.com/u/7036754?v=4"
+  },
+  "37": {
+    "repoFullName": "daimajia/AndroidViewAnimations",
+    "totalPoints": 32309.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2503423?v=4"
+  },
+  "38": {
+    "repoFullName": "daimajia/AndroidSwipeLayout",
+    "totalPoints": 31960,
+    "avatar": "https://avatars.githubusercontent.com/u/2503423?v=4"
+  },
+  "39": {
+    "repoFullName": "wenzhixin/bootstrap-table",
+    "totalPoints": 31475.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2117018?v=4"
+  },
+  "40": {
+    "repoFullName": "crimx/ext-saladict",
+    "totalPoints": 31405.5,
+    "avatar": "https://avatars.githubusercontent.com/u/6882794?v=4"
+  },
+  "41": {
+    "repoFullName": "tangly1024/NotionNext",
+    "totalPoints": 30550.5,
+    "avatar": "https://avatars.githubusercontent.com/u/15920488?v=4"
+  },
+  "42": {
+    "repoFullName": "rootsongjc/kubernetes-handbook",
+    "totalPoints": 29687.5,
+    "avatar": "https://avatars.githubusercontent.com/u/3328185?v=4"
+  },
+  "43": {
+    "repoFullName": "wanglin2/mind-map",
+    "totalPoints": 25641.5,
+    "avatar": "https://avatars.githubusercontent.com/u/17272433?v=4"
+  },
+  "44": {
+    "repoFullName": "Vanessa219/vditor",
+    "totalPoints": 24739,
+    "avatar": "https://avatars.githubusercontent.com/u/970828?v=4"
+  },
+  "45": {
+    "repoFullName": "ConardLi/easy-dataset",
+    "totalPoints": 24562.5,
+    "avatar": "https://avatars.githubusercontent.com/u/30708545?v=4"
+  },
+  "46": {
+    "repoFullName": "JeffreySu/WeiXinMPSDK",
+    "totalPoints": 23667,
+    "avatar": "https://avatars.githubusercontent.com/u/2281927?v=4"
+  },
+  "47": {
+    "repoFullName": "Freelander/Android_Data",
+    "totalPoints": 23060,
+    "avatar": "https://avatars.githubusercontent.com/u/10611037?v=4"
+  },
+  "48": {
+    "repoFullName": "YSGStudyHards/DotNetGuide",
+    "totalPoints": 22851.5,
+    "avatar": "https://avatars.githubusercontent.com/u/35737263?v=4"
+  },
+  "49": {
+    "repoFullName": "yihong0618/bilingual_book_maker",
+    "totalPoints": 22354,
+    "avatar": "https://avatars.githubusercontent.com/u/15976103?v=4"
+  },
+  "50": {
+    "repoFullName": "FranzKafkaYu/x-ui",
+    "totalPoints": 21952.5,
+    "avatar": "https://avatars.githubusercontent.com/u/38254177?v=4"
+  }
+}

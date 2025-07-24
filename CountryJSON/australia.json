@@ -1,1 +1,252 @@
-{}
+{
+  "1": {
+    "repoFullName": "nicbarker/clay",
+    "totalPoints": 37417,
+    "avatar": "https://avatars.githubusercontent.com/u/2264338?v=4"
+  },
+  "2": {
+    "repoFullName": "rstacruz/cheatsheets",
+    "totalPoints": 36218.5,
+    "avatar": "https://avatars.githubusercontent.com/u/74385?v=4"
+  },
+  "3": {
+    "repoFullName": "atomiks/tippyjs",
+    "totalPoints": 30760,
+    "avatar": "https://avatars.githubusercontent.com/u/22450188?v=4"
+  },
+  "4": {
+    "repoFullName": "stenzek/duckstation",
+    "totalPoints": 21593.5,
+    "avatar": "https://avatars.githubusercontent.com/u/11288319?v=4"
+  },
+  "5": {
+    "repoFullName": "insin/nwb",
+    "totalPoints": 13906.5,
+    "avatar": "https://avatars.githubusercontent.com/u/226692?v=4"
+  },
+  "6": {
+    "repoFullName": "mackron/miniaudio",
+    "totalPoints": 12379.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1232553?v=4"
+  },
+  "7": {
+    "repoFullName": "alecthomas/chroma",
+    "totalPoints": 11729.5,
+    "avatar": "https://avatars.githubusercontent.com/u/41767?v=4"
+  },
+  "8": {
+    "repoFullName": "beeradmoore/dlss-swapper",
+    "totalPoints": 11509,
+    "avatar": "https://avatars.githubusercontent.com/u/904737?v=4"
+  },
+  "9": {
+    "repoFullName": "007revad/Synology_HDD_db",
+    "totalPoints": 11025,
+    "avatar": "https://avatars.githubusercontent.com/u/39733752?v=4"
+  },
+  "10": {
+    "repoFullName": "harlan-zw/unlighthouse",
+    "totalPoints": 10513.5,
+    "avatar": "https://avatars.githubusercontent.com/u/5326365?v=4"
+  },
+  "11": {
+    "repoFullName": "futantan/OpenGpt",
+    "totalPoints": 10031,
+    "avatar": "https://avatars.githubusercontent.com/u/6268441?v=4"
+  },
+  "12": {
+    "repoFullName": "sporto/awesome-elm",
+    "totalPoints": 9240,
+    "avatar": "https://avatars.githubusercontent.com/u/1005498?v=4"
+  },
+  "13": {
+    "repoFullName": "alecthomas/kingpin",
+    "totalPoints": 8956,
+    "avatar": "https://avatars.githubusercontent.com/u/41767?v=4"
+  },
+  "14": {
+    "repoFullName": "alecthomas/gometalinter",
+    "totalPoints": 8863,
+    "avatar": "https://avatars.githubusercontent.com/u/41767?v=4"
+  },
+  "15": {
+    "repoFullName": "psviderski/unregistry",
+    "totalPoints": 8807.5,
+    "avatar": "https://avatars.githubusercontent.com/u/783910?v=4"
+  },
+  "16": {
+    "repoFullName": "sjpiper145/MakerSkillTree",
+    "totalPoints": 8038,
+    "avatar": "https://avatars.githubusercontent.com/u/7828884?v=4"
+  },
+  "17": {
+    "repoFullName": "evgenyneu/keychain-swift",
+    "totalPoints": 7475.5,
+    "avatar": "https://avatars.githubusercontent.com/u/880411?v=4"
+  },
+  "18": {
+    "repoFullName": "drewnoakes/metadata-extractor",
+    "totalPoints": 6839.5,
+    "avatar": "https://avatars.githubusercontent.com/u/350947?v=4"
+  },
+  "19": {
+    "repoFullName": "thomasdavis/backbonetutorials",
+    "totalPoints": 6563.5,
+    "avatar": "https://avatars.githubusercontent.com/u/416209?v=4"
+  },
+  "20": {
+    "repoFullName": "nnethercote/perf-book",
+    "totalPoints": 6187,
+    "avatar": "https://avatars.githubusercontent.com/u/1940286?v=4"
+  },
+  "21": {
+    "repoFullName": "RManLuo/Awesome-LLM-KG",
+    "totalPoints": 6151.5,
+    "avatar": "https://avatars.githubusercontent.com/u/34737002?v=4"
+  },
+  "22": {
+    "repoFullName": "ray-x/go.nvim",
+    "totalPoints": 6078.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1681295?v=4"
+  },
+  "23": {
+    "repoFullName": "luispedro/BuildingMachineLearningSystemsWithPython",
+    "totalPoints": 6011.5,
+    "avatar": "https://avatars.githubusercontent.com/u/79334?v=4"
+  },
+  "24": {
+    "repoFullName": "thepowersgang/mrustc",
+    "totalPoints": 5851.5,
+    "avatar": "https://avatars.githubusercontent.com/u/955596?v=4"
+  },
+  "25": {
+    "repoFullName": "evgenyneu/Cosmos",
+    "totalPoints": 5641.5,
+    "avatar": "https://avatars.githubusercontent.com/u/880411?v=4"
+  },
+  "26": {
+    "repoFullName": "ray-x/lsp_signature.nvim",
+    "totalPoints": 5608,
+    "avatar": "https://avatars.githubusercontent.com/u/1681295?v=4"
+  },
+  "27": {
+    "repoFullName": "davidlattimore/wild",
+    "totalPoints": 5605.5,
+    "avatar": "https://avatars.githubusercontent.com/u/8983542?v=4"
+  },
+  "28": {
+    "repoFullName": "insin/react-hn",
+    "totalPoints": 5575.5,
+    "avatar": "https://avatars.githubusercontent.com/u/226692?v=4"
+  },
+  "29": {
+    "repoFullName": "GrahamDumpleton/wrapt",
+    "totalPoints": 5460,
+    "avatar": "https://avatars.githubusercontent.com/u/507637?v=4"
+  },
+  "30": {
+    "repoFullName": "JasonXuDeveloper/JEngine",
+    "totalPoints": 5408,
+    "avatar": "https://avatars.githubusercontent.com/u/48086348?v=4"
+  },
+  "31": {
+    "repoFullName": "Jason2Brownlee/CleverAlgorithms",
+    "totalPoints": 5335.5,
+    "avatar": "https://avatars.githubusercontent.com/u/83992495?v=4"
+  },
+  "32": {
+    "repoFullName": "insin/control-panel-for-twitter",
+    "totalPoints": 5204,
+    "avatar": "https://avatars.githubusercontent.com/u/226692?v=4"
+  },
+  "33": {
+    "repoFullName": "psviderski/uncloud",
+    "totalPoints": 5179.5,
+    "avatar": "https://avatars.githubusercontent.com/u/783910?v=4"
+  },
+  "34": {
+    "repoFullName": "mkj/dropbear",
+    "totalPoints": 5061,
+    "avatar": "https://avatars.githubusercontent.com/u/328137?v=4"
+  },
+  "35": {
+    "repoFullName": "Brendonovich/prisma-client-rust",
+    "totalPoints": 4830.5,
+    "avatar": "https://avatars.githubusercontent.com/u/14191578?v=4"
+  },
+  "36": {
+    "repoFullName": "cpmech/gosl",
+    "totalPoints": 4713,
+    "avatar": "https://avatars.githubusercontent.com/u/9506388?v=4"
+  },
+  "37": {
+    "repoFullName": "oleg-shilo/cs-script",
+    "totalPoints": 4642.5,
+    "avatar": "https://avatars.githubusercontent.com/u/16729806?v=4"
+  },
+  "38": {
+    "repoFullName": "atomiks/tippyjs-react",
+    "totalPoints": 4527.5,
+    "avatar": "https://avatars.githubusercontent.com/u/22450188?v=4"
+  },
+  "39": {
+    "repoFullName": "SamSaffron/memory_profiler",
+    "totalPoints": 4388,
+    "avatar": "https://avatars.githubusercontent.com/u/5213?v=4"
+  },
+  "40": {
+    "repoFullName": "dominikwilkowski/cfonts",
+    "totalPoints": 4343,
+    "avatar": "https://avatars.githubusercontent.com/u/1266923?v=4"
+  },
+  "41": {
+    "repoFullName": "geshan/au-companies-providing-work-visa-sponsorship",
+    "totalPoints": 4273.5,
+    "avatar": "https://avatars.githubusercontent.com/u/170554?v=4"
+  },
+  "42": {
+    "repoFullName": "mblode/marx",
+    "totalPoints": 4267.5,
+    "avatar": "https://avatars.githubusercontent.com/u/7183998?v=4"
+  },
+  "43": {
+    "repoFullName": "stowball/jQuery-rwdImageMaps",
+    "totalPoints": 4185.5,
+    "avatar": "https://avatars.githubusercontent.com/u/853552?v=4"
+  },
+  "44": {
+    "repoFullName": "qinlili23333/ctfileGet",
+    "totalPoints": 4074,
+    "avatar": "https://avatars.githubusercontent.com/u/24567775?v=4"
+  },
+  "45": {
+    "repoFullName": "pentestfunctions/BlueDucky",
+    "totalPoints": 3989,
+    "avatar": "https://avatars.githubusercontent.com/u/144001335?v=4"
+  },
+  "46": {
+    "repoFullName": "martinbjeldbak/ultimate-beamer-theme-list",
+    "totalPoints": 3907.5,
+    "avatar": "https://avatars.githubusercontent.com/u/823316?v=4"
+  },
+  "47": {
+    "repoFullName": "atomiks/floating-ui",
+    "totalPoints": 3843.5,
+    "avatar": "https://avatars.githubusercontent.com/u/22450188?v=4"
+  },
+  "48": {
+    "repoFullName": "mackron/dr_libs",
+    "totalPoints": 3683,
+    "avatar": "https://avatars.githubusercontent.com/u/1232553?v=4"
+  },
+  "49": {
+    "repoFullName": "thomasdavis/best-practices",
+    "totalPoints": 3667.5,
+    "avatar": "https://avatars.githubusercontent.com/u/416209?v=4"
+  },
+  "50": {
+    "repoFullName": "SimonCropp/Delta",
+    "totalPoints": 3544,
+    "avatar": "https://avatars.githubusercontent.com/u/122666?v=4"
+  }
+}

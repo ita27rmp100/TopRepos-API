@@ -3,8 +3,11 @@ const createError = require('http-errors');
 const express = require('express');
 const {exec} = require("child_process")
 const fs = require("fs")
+const cors = require('cors');
 
 const app = express();
+app.use(cors());
+
 // working on data 
 const countries = require("./countryList.json").countries.sort()
 function RecursivePushCountryData(index){
@@ -26,7 +29,7 @@ function RecursivePushCountryData(index){
       console.log(`${country} : done`)
       setTimeout(()=>{
         RecursivePushCountryData((index+1)%countries.length)
-      },360000)
+      },600000)
     })
   }
 }

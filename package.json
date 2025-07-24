@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ita27rmp100/TopRepos#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^16.6.0",
     "express": "^5.1.0",
     "fs": "^0.0.1-security",

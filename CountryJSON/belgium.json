@@ -1,1 +1,252 @@
-{}
+{
+  "1": {
+    "repoFullName": "JanDeDobbeleer/oh-my-posh",
+    "totalPoints": 50392.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2492783?v=4"
+  },
+  "2": {
+    "repoFullName": "folke/lazy.nvim",
+    "totalPoints": 45868.5,
+    "avatar": "https://avatars.githubusercontent.com/u/292349?v=4"
+  },
+  "3": {
+    "repoFullName": "JanDeDobbeleer/oh-my-posh2",
+    "totalPoints": 13135.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2492783?v=4"
+  },
+  "4": {
+    "repoFullName": "folke/noice.nvim",
+    "totalPoints": 13015,
+    "avatar": "https://avatars.githubusercontent.com/u/292349?v=4"
+  },
+  "5": {
+    "repoFullName": "probberechts/hexo-theme-cactus",
+    "totalPoints": 8830,
+    "avatar": "https://avatars.githubusercontent.com/u/2175271?v=4"
+  },
+  "6": {
+    "repoFullName": "mariusandra/pigeon-maps",
+    "totalPoints": 8753.5,
+    "avatar": "https://avatars.githubusercontent.com/u/53387?v=4"
+  },
+  "7": {
+    "repoFullName": "folke/flash.nvim",
+    "totalPoints": 8223.5,
+    "avatar": "https://avatars.githubusercontent.com/u/292349?v=4"
+  },
+  "8": {
+    "repoFullName": "Athou/commafeed",
+    "totalPoints": 7977,
+    "avatar": "https://avatars.githubusercontent.com/u/1256795?v=4"
+  },
+  "9": {
+    "repoFullName": "driesvints/dotfiles",
+    "totalPoints": 6180.5,
+    "avatar": "https://avatars.githubusercontent.com/u/594614?v=4"
+  },
+  "10": {
+    "repoFullName": "driesvints/blade-icons",
+    "totalPoints": 5944,
+    "avatar": "https://avatars.githubusercontent.com/u/594614?v=4"
+  },
+  "11": {
+    "repoFullName": "kikipoulet/SukiUI",
+    "totalPoints": 5043.5,
+    "avatar": "https://avatars.githubusercontent.com/u/19242427?v=4"
+  },
+  "12": {
+    "repoFullName": "AndrewRadev/splitjoin.vim",
+    "totalPoints": 4916.5,
+    "avatar": "https://avatars.githubusercontent.com/u/124255?v=4"
+  },
+  "13": {
+    "repoFullName": "belgattitude/nextjs-monorepo-example",
+    "totalPoints": 4487.5,
+    "avatar": "https://avatars.githubusercontent.com/u/259798?v=4"
+  },
+  "14": {
+    "repoFullName": "sleeyax/burp-awesome-tls",
+    "totalPoints": 3826,
+    "avatar": "https://avatars.githubusercontent.com/u/30344294?v=4"
+  },
+  "15": {
+    "repoFullName": "plexus/chestnut",
+    "totalPoints": 3314,
+    "avatar": "https://avatars.githubusercontent.com/u/32212?v=4"
+  },
+  "16": {
+    "repoFullName": "bramus/react-native-maps-directions",
+    "totalPoints": 3206,
+    "avatar": "https://avatars.githubusercontent.com/u/213073?v=4"
+  },
+  "17": {
+    "repoFullName": "driesvints/vat-calculator",
+    "totalPoints": 3141.5,
+    "avatar": "https://avatars.githubusercontent.com/u/594614?v=4"
+  },
+  "18": {
+    "repoFullName": "matvp91/indigo-player",
+    "totalPoints": 3099,
+    "avatar": "https://avatars.githubusercontent.com/u/12699796?v=4"
+  },
+  "19": {
+    "repoFullName": "xvrh/lottie-flutter",
+    "totalPoints": 3084.5,
+    "avatar": "https://avatars.githubusercontent.com/u/5110923?v=4"
+  },
+  "20": {
+    "repoFullName": "bramus/router",
+    "totalPoints": 2832,
+    "avatar": "https://avatars.githubusercontent.com/u/213073?v=4"
+  },
+  "21": {
+    "repoFullName": "jovandeginste/workout-tracker",
+    "totalPoints": 2767.5,
+    "avatar": "https://avatars.githubusercontent.com/u/3170771?v=4"
+  },
+  "22": {
+    "repoFullName": "brechtsanders/winlibs_mingw",
+    "totalPoints": 2732.5,
+    "avatar": "https://avatars.githubusercontent.com/u/17645177?v=4"
+  },
+  "23": {
+    "repoFullName": "mariusandra/insights",
+    "totalPoints": 2722,
+    "avatar": "https://avatars.githubusercontent.com/u/53387?v=4"
+  },
+  "24": {
+    "repoFullName": "aiXander/Realtime_PyAudio_FFT",
+    "totalPoints": 2646,
+    "avatar": "https://avatars.githubusercontent.com/u/24993604?v=4"
+  },
+  "25": {
+    "repoFullName": "robiningelbrecht/statistics-for-strava",
+    "totalPoints": 2401,
+    "avatar": "https://avatars.githubusercontent.com/u/203894?v=4"
+  },
+  "26": {
+    "repoFullName": "pouriyajamshidi/tcping",
+    "totalPoints": 2401,
+    "avatar": "https://avatars.githubusercontent.com/u/54482226?v=4"
+  },
+  "27": {
+    "repoFullName": "Wolfr/clank",
+    "totalPoints": 2245.5,
+    "avatar": "https://avatars.githubusercontent.com/u/12690?v=4"
+  },
+  "28": {
+    "repoFullName": "gammasoft71/xtd",
+    "totalPoints": 2228.5,
+    "avatar": "https://avatars.githubusercontent.com/u/42293979?v=4"
+  },
+  "29": {
+    "repoFullName": "skyfloogle/red-viper",
+    "totalPoints": 2164,
+    "avatar": "https://avatars.githubusercontent.com/u/18466542?v=4"
+  },
+  "30": {
+    "repoFullName": "plexus/chemacs2",
+    "totalPoints": 2093.5,
+    "avatar": "https://avatars.githubusercontent.com/u/32212?v=4"
+  },
+  "31": {
+    "repoFullName": "renatolond/mastodon-twitter-poster",
+    "totalPoints": 2027,
+    "avatar": "https://avatars.githubusercontent.com/u/173791?v=4"
+  },
+  "32": {
+    "repoFullName": "probberechts/soccerdata",
+    "totalPoints": 1989.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2175271?v=4"
+  },
+  "33": {
+    "repoFullName": "AndrewRadev/switch.vim",
+    "totalPoints": 1858,
+    "avatar": "https://avatars.githubusercontent.com/u/124255?v=4"
+  },
+  "34": {
+    "repoFullName": "jleclanche/fireplace",
+    "totalPoints": 1814,
+    "avatar": "https://avatars.githubusercontent.com/u/235410?v=4"
+  },
+  "35": {
+    "repoFullName": "MatthiasBenaets/nix-config",
+    "totalPoints": 1792.5,
+    "avatar": "https://avatars.githubusercontent.com/u/89214559?v=4"
+  },
+  "36": {
+    "repoFullName": "freekmurze/dotfiles",
+    "totalPoints": 1739,
+    "avatar": "https://avatars.githubusercontent.com/u/483853?v=4"
+  },
+  "37": {
+    "repoFullName": "plexus/chemacs",
+    "totalPoints": 1662.5,
+    "avatar": "https://avatars.githubusercontent.com/u/32212?v=4"
+  },
+  "38": {
+    "repoFullName": "jeertmans/manim-slides",
+    "totalPoints": 1615.5,
+    "avatar": "https://avatars.githubusercontent.com/u/27275099?v=4"
+  },
+  "39": {
+    "repoFullName": "j0r1/JRTPLIB",
+    "totalPoints": 1607.5,
+    "avatar": "https://avatars.githubusercontent.com/u/12869673?v=4"
+  },
+  "40": {
+    "repoFullName": "MatthiasValvekens/pyHanko",
+    "totalPoints": 1556.5,
+    "avatar": "https://avatars.githubusercontent.com/u/6440095?v=4"
+  },
+  "41": {
+    "repoFullName": "brendt/aggregate.stitcher.io",
+    "totalPoints": 1555.5,
+    "avatar": "https://avatars.githubusercontent.com/u/6905297?v=4"
+  },
+  "42": {
+    "repoFullName": "wimdeblauwe/htmx-spring-boot",
+    "totalPoints": 1525.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1115823?v=4"
+  },
+  "43": {
+    "repoFullName": "maartenba/MvcSiteMapProvider",
+    "totalPoints": 1364.5,
+    "avatar": "https://avatars.githubusercontent.com/u/485230?v=4"
+  },
+  "44": {
+    "repoFullName": "bramus/mixed-content-scan",
+    "totalPoints": 1310.5,
+    "avatar": "https://avatars.githubusercontent.com/u/213073?v=4"
+  },
+  "45": {
+    "repoFullName": "xdamman/selection-sharer",
+    "totalPoints": 1288,
+    "avatar": "https://avatars.githubusercontent.com/u/74358?v=4"
+  },
+  "46": {
+    "repoFullName": "brechtsanders/xlsxio",
+    "totalPoints": 1248,
+    "avatar": "https://avatars.githubusercontent.com/u/17645177?v=4"
+  },
+  "47": {
+    "repoFullName": "sdebacker/TypiCMS",
+    "totalPoints": 1228,
+    "avatar": "https://avatars.githubusercontent.com/u/134503?v=4"
+  },
+  "48": {
+    "repoFullName": "wdecoster/NanoPlot",
+    "totalPoints": 1224.5,
+    "avatar": "https://avatars.githubusercontent.com/u/11660522?v=4"
+  },
+  "49": {
+    "repoFullName": "AndrewRadev/sideways.vim",
+    "totalPoints": 1218,
+    "avatar": "https://avatars.githubusercontent.com/u/124255?v=4"
+  },
+  "50": {
+    "repoFullName": "bramvdbogaerde/go-scp",
+    "totalPoints": 1209,
+    "avatar": "https://avatars.githubusercontent.com/u/2016763?v=4"
+  }
+}

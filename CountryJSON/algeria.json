@@ -1,12 +1,12 @@
 {
   "1": {
     "repoFullName": "BelkacemYerfa/shadcn-extension",
-    "totalPoints": 3155,
+    "totalPoints": 3164.5,
     "avatar": "https://avatars.githubusercontent.com/u/106016365?v=4"
   },
   "2": {
     "repoFullName": "abdallahmehiz/mpvKt",
-    "totalPoints": 2569,
+    "totalPoints": 2579,
     "avatar": "https://avatars.githubusercontent.com/u/54363735?v=4"
   },
   "3": {
@@ -16,7 +16,7 @@
   },
   "4": {
     "repoFullName": "a-hamdi/GPU",
-    "totalPoints": 1192,
+    "totalPoints": 1199.5,
     "avatar": "https://avatars.githubusercontent.com/u/80772549?v=4"
   },
   "5": {
@@ -26,7 +26,7 @@
   },
   "6": {
     "repoFullName": "strlrd-29/hookcn",
-    "totalPoints": 909,
+    "totalPoints": 911.5,
     "avatar": "https://avatars.githubusercontent.com/u/70029024?v=4"
   },
   "7": {
@@ -41,12 +41,12 @@
   },
   "9": {
     "repoFullName": "ipenywis/nestjs-solid",
-    "totalPoints": 586.5,
+    "totalPoints": 589,
     "avatar": "https://avatars.githubusercontent.com/u/13965825?v=4"
   },
   "10": {
     "repoFullName": "youknowriad/wp-js-plugin-starter",
-    "totalPoints": 556.5,
+    "totalPoints": 557,
     "avatar": "https://avatars.githubusercontent.com/u/272444?v=4"
   },
   "11": {
@@ -81,7 +81,7 @@
   },
   "17": {
     "repoFullName": "kaymen99/sales-outreach-automation-langgraph",
-    "totalPoints": 367.5,
+    "totalPoints": 370,
     "avatar": "https://avatars.githubusercontent.com/u/83681204?v=4"
   },
   "18": {
@@ -91,12 +91,12 @@
   },
   "19": {
     "repoFullName": "kaymen99/langgraph-email-automation",
-    "totalPoints": 353,
+    "totalPoints": 363.5,
     "avatar": "https://avatars.githubusercontent.com/u/83681204?v=4"
   },
   "20": {
     "repoFullName": "ayadseghairi/tornet",
-    "totalPoints": 318,
+    "totalPoints": 325.5,
     "avatar": "https://avatars.githubusercontent.com/u/85361584?v=4"
   },
   "21": {
@@ -106,17 +106,17 @@
   },
   "22": {
     "repoFullName": "chihebnabil/claude-ui",
-    "totalPoints": 302,
+    "totalPoints": 307,
     "avatar": "https://avatars.githubusercontent.com/u/2858391?v=4"
   },
   "23": {
     "repoFullName": "strlrd-29/shadcn-ui-form-builder",
-    "totalPoints": 301,
+    "totalPoints": 303.5,
     "avatar": "https://avatars.githubusercontent.com/u/70029024?v=4"
   },
   "24": {
     "repoFullName": "chrhi/studio",
-    "totalPoints": 281,
+    "totalPoints": 286,
     "avatar": "https://avatars.githubusercontent.com/u/116351398?v=4"
   },
   "25": {
@@ -140,14 +140,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1645304?v=4"
   },
   "29": {
+    "repoFullName": "0xHadyy/isl-python",
+    "totalPoints": 184.5,
+    "avatar": "https://avatars.githubusercontent.com/u/109419767?v=4"
+  },
+  "30": {
     "repoFullName": "aissat/easy_localization_loader",
     "totalPoints": 180,
     "avatar": "https://avatars.githubusercontent.com/u/4768203?v=4"
-  },
-  "30": {
-    "repoFullName": "0xHadyy/isl-python",
-    "totalPoints": 176.5,
-    "avatar": "https://avatars.githubusercontent.com/u/109419767?v=4"
   },
   "31": {
     "repoFullName": "rehhouari/alpinejs-i18n",
@@ -201,7 +201,7 @@
   },
   "41": {
     "repoFullName": "ibrahimBougaoua/filament-rating-star",
-    "totalPoints": 107,
+    "totalPoints": 109.5,
     "avatar": "https://avatars.githubusercontent.com/u/41789518?v=4"
   },
   "42": {
@@ -246,7 +246,7 @@
   },
   "50": {
     "repoFullName": "Achour/nextjs-better-auth",
-    "totalPoints": 82,
+    "totalPoints": 84.5,
     "avatar": "https://avatars.githubusercontent.com/u/2856254?v=4"
   }
 }

@@ -1,1 +1,252 @@
-{}
+{
+  "1": {
+    "repoFullName": "tonsky/FiraCode",
+    "totalPoints": 199899.5,
+    "avatar": "https://avatars.githubusercontent.com/u/285292?v=4"
+  },
+  "2": {
+    "repoFullName": "sharkdp/bat",
+    "totalPoints": 134246.5,
+    "avatar": "https://avatars.githubusercontent.com/u/4209276?v=4"
+  },
+  "3": {
+    "repoFullName": "brillout/awesome-react-components",
+    "totalPoints": 114309.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1005638?v=4"
+  },
+  "4": {
+    "repoFullName": "sharkdp/fd",
+    "totalPoints": 97369.5,
+    "avatar": "https://avatars.githubusercontent.com/u/4209276?v=4"
+  },
+  "5": {
+    "repoFullName": "herrbischoff/awesome-macos-command-line",
+    "totalPoints": 74922,
+    "avatar": "https://avatars.githubusercontent.com/u/8957346?v=4"
+  },
+  "6": {
+    "repoFullName": "sharkdp/hyperfine",
+    "totalPoints": 64353.5,
+    "avatar": "https://avatars.githubusercontent.com/u/4209276?v=4"
+  },
+  "7": {
+    "repoFullName": "pubkey/rxdb",
+    "totalPoints": 56826,
+    "avatar": "https://avatars.githubusercontent.com/u/8926560?v=4"
+  },
+  "8": {
+    "repoFullName": "lukasmasuch/best-of-ml-python",
+    "totalPoints": 55459,
+    "avatar": "https://avatars.githubusercontent.com/u/2852129?v=4"
+  },
+  "9": {
+    "repoFullName": "sebastianbergmann/phpunit",
+    "totalPoints": 50699.5,
+    "avatar": "https://avatars.githubusercontent.com/u/25218?v=4"
+  },
+  "10": {
+    "repoFullName": "nikic/PHP-Parser",
+    "totalPoints": 43767.5,
+    "avatar": "https://avatars.githubusercontent.com/u/216080?v=4"
+  },
+  "11": {
+    "repoFullName": "phil-opp/blog_os",
+    "totalPoints": 42319.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1131315?v=4"
+  },
+  "12": {
+    "repoFullName": "doitsujin/dxvk",
+    "totalPoints": 38256.5,
+    "avatar": "https://avatars.githubusercontent.com/u/25567304?v=4"
+  },
+  "13": {
+    "repoFullName": "johannesjo/super-productivity",
+    "totalPoints": 36365,
+    "avatar": "https://avatars.githubusercontent.com/u/1456265?v=4"
+  },
+  "14": {
+    "repoFullName": "schickling/chromeless",
+    "totalPoints": 33157.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1567498?v=4"
+  },
+  "15": {
+    "repoFullName": "hagezi/dns-blocklists",
+    "totalPoints": 32864,
+    "avatar": "https://avatars.githubusercontent.com/u/104343908?v=4"
+  },
+  "16": {
+    "repoFullName": "SaschaWillems/Vulkan",
+    "totalPoints": 29048,
+    "avatar": "https://avatars.githubusercontent.com/u/10283127?v=4"
+  },
+  "17": {
+    "repoFullName": "svenstaro/genact",
+    "totalPoints": 28057,
+    "avatar": "https://avatars.githubusercontent.com/u/1664?v=4"
+  },
+  "18": {
+    "repoFullName": "elkowar/eww",
+    "totalPoints": 27682,
+    "avatar": "https://avatars.githubusercontent.com/u/5300871?v=4"
+  },
+  "19": {
+    "repoFullName": "gka/chroma.js",
+    "totalPoints": 26249.5,
+    "avatar": "https://avatars.githubusercontent.com/u/617518?v=4"
+  },
+  "20": {
+    "repoFullName": "alexeygrigorev/data-science-interviews",
+    "totalPoints": 24521.5,
+    "avatar": "https://avatars.githubusercontent.com/u/875246?v=4"
+  },
+  "21": {
+    "repoFullName": "hediet/vscode-drawio",
+    "totalPoints": 23291,
+    "avatar": "https://avatars.githubusercontent.com/u/2931520?v=4"
+  },
+  "22": {
+    "repoFullName": "horsicq/Detect-It-Easy",
+    "totalPoints": 23011.5,
+    "avatar": "https://avatars.githubusercontent.com/u/7762949?v=4"
+  },
+  "23": {
+    "repoFullName": "moklick/frontend-stuff",
+    "totalPoints": 22551.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2857535?v=4"
+  },
+  "24": {
+    "repoFullName": "sebastianbergmann/php-code-coverage",
+    "totalPoints": 22434,
+    "avatar": "https://avatars.githubusercontent.com/u/25218?v=4"
+  },
+  "25": {
+    "repoFullName": "hediet/vscode-debug-visualizer",
+    "totalPoints": 20346.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2931520?v=4"
+  },
+  "26": {
+    "repoFullName": "sebastianbergmann/php-timer",
+    "totalPoints": 19352.5,
+    "avatar": "https://avatars.githubusercontent.com/u/25218?v=4"
+  },
+  "27": {
+    "repoFullName": "sschmid/Entitas",
+    "totalPoints": 19141.5,
+    "avatar": "https://avatars.githubusercontent.com/u/233700?v=4"
+  },
+  "28": {
+    "repoFullName": "svenstaro/miniserve",
+    "totalPoints": 17215,
+    "avatar": "https://avatars.githubusercontent.com/u/1664?v=4"
+  },
+  "29": {
+    "repoFullName": "rse/es6-features",
+    "totalPoints": 16009.5,
+    "avatar": "https://avatars.githubusercontent.com/u/221273?v=4"
+  },
+  "30": {
+    "repoFullName": "timschneeb/awesome-shizuku",
+    "totalPoints": 15348.5,
+    "avatar": "https://avatars.githubusercontent.com/u/38386967?v=4"
+  },
+  "31": {
+    "repoFullName": "tonsky/AnyBar",
+    "totalPoints": 14970,
+    "avatar": "https://avatars.githubusercontent.com/u/285292?v=4"
+  },
+  "32": {
+    "repoFullName": "mishushakov/llm-scraper",
+    "totalPoints": 14821,
+    "avatar": "https://avatars.githubusercontent.com/u/10400064?v=4"
+  },
+  "33": {
+    "repoFullName": "Nukesor/pueue",
+    "totalPoints": 14237,
+    "avatar": "https://avatars.githubusercontent.com/u/3322822?v=4"
+  },
+  "34": {
+    "repoFullName": "tonsky/datascript",
+    "totalPoints": 14140,
+    "avatar": "https://avatars.githubusercontent.com/u/285292?v=4"
+  },
+  "35": {
+    "repoFullName": "pk910/PoWFaucet",
+    "totalPoints": 13646.5,
+    "avatar": "https://avatars.githubusercontent.com/u/491045?v=4"
+  },
+  "36": {
+    "repoFullName": "nikic/FastRoute",
+    "totalPoints": 13232,
+    "avatar": "https://avatars.githubusercontent.com/u/216080?v=4"
+  },
+  "37": {
+    "repoFullName": "rubensousa/GravitySnapHelper",
+    "totalPoints": 12808,
+    "avatar": "https://avatars.githubusercontent.com/u/10662096?v=4"
+  },
+  "38": {
+    "repoFullName": "ClemensElflein/OpenMower",
+    "totalPoints": 12421,
+    "avatar": "https://avatars.githubusercontent.com/u/2864655?v=4"
+  },
+  "39": {
+    "repoFullName": "Byron/dua-cli",
+    "totalPoints": 12238.5,
+    "avatar": "https://avatars.githubusercontent.com/u/63622?v=4"
+  },
+  "40": {
+    "repoFullName": "pudo/dataset",
+    "totalPoints": 12113.5,
+    "avatar": "https://avatars.githubusercontent.com/u/41628?v=4"
+  },
+  "41": {
+    "repoFullName": "timschneeb/GalaxyBudsClient",
+    "totalPoints": 10634.5,
+    "avatar": "https://avatars.githubusercontent.com/u/38386967?v=4"
+  },
+  "42": {
+    "repoFullName": "rubensousa/ViewPagerCards",
+    "totalPoints": 10477,
+    "avatar": "https://avatars.githubusercontent.com/u/10662096?v=4"
+  },
+  "43": {
+    "repoFullName": "hynek/structlog",
+    "totalPoints": 10355,
+    "avatar": "https://avatars.githubusercontent.com/u/41240?v=4"
+  },
+  "44": {
+    "repoFullName": "herrbischoff/awesome-command-line-apps",
+    "totalPoints": 10321.5,
+    "avatar": "https://avatars.githubusercontent.com/u/8957346?v=4"
+  },
+  "45": {
+    "repoFullName": "lukasmasuch/best-of-python",
+    "totalPoints": 10268,
+    "avatar": "https://avatars.githubusercontent.com/u/2852129?v=4"
+  },
+  "46": {
+    "repoFullName": "MichaelGrupp/evo",
+    "totalPoints": 10111.5,
+    "avatar": "https://avatars.githubusercontent.com/u/8985495?v=4"
+  },
+  "47": {
+    "repoFullName": "JannisX11/blockbench",
+    "totalPoints": 9892.5,
+    "avatar": "https://avatars.githubusercontent.com/u/29278436?v=4"
+  },
+  "48": {
+    "repoFullName": "Ly0n/awesome-robotic-tooling",
+    "totalPoints": 9103.5,
+    "avatar": "https://avatars.githubusercontent.com/u/6413976?v=4"
+  },
+  "49": {
+    "repoFullName": "muety/wakapi",
+    "totalPoints": 8883.5,
+    "avatar": "https://avatars.githubusercontent.com/u/8978843?v=4"
+  },
+  "50": {
+    "repoFullName": "rubensousa/PreviewSeekBar",
+    "totalPoints": 8859,
+    "avatar": "https://avatars.githubusercontent.com/u/10662096?v=4"
+  }
+}
