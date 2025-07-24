@@ -1,1 +1,252 @@
-{}
+{
+  "1": {
+    "repoFullName": "ageron/handson-ml2",
+    "totalPoints": 79020,
+    "avatar": "https://avatars.githubusercontent.com/u/76661?v=4"
+  },
+  "2": {
+    "repoFullName": "ageron/handson-ml",
+    "totalPoints": 70108,
+    "avatar": "https://avatars.githubusercontent.com/u/76661?v=4"
+  },
+  "3": {
+    "repoFullName": "deviantony/docker-elk",
+    "totalPoints": 48442,
+    "avatar": "https://avatars.githubusercontent.com/u/5485061?v=4"
+  },
+  "4": {
+    "repoFullName": "ageron/handson-ml3",
+    "totalPoints": 27897.5,
+    "avatar": "https://avatars.githubusercontent.com/u/76661?v=4"
+  },
+  "5": {
+    "repoFullName": "axllent/mailpit",
+    "totalPoints": 18592,
+    "avatar": "https://avatars.githubusercontent.com/u/1463435?v=4"
+  },
+  "6": {
+    "repoFullName": "wesbos/beginner-javascript",
+    "totalPoints": 17622,
+    "avatar": "https://avatars.githubusercontent.com/u/176013?v=4"
+  },
+  "7": {
+    "repoFullName": "wesbos/awesome-uses",
+    "totalPoints": 12352.5,
+    "avatar": "https://avatars.githubusercontent.com/u/176013?v=4"
+  },
+  "8": {
+    "repoFullName": "wesbos/Advanced-React",
+    "totalPoints": 10057.5,
+    "avatar": "https://avatars.githubusercontent.com/u/176013?v=4"
+  },
+  "9": {
+    "repoFullName": "nrc/r4cppp",
+    "totalPoints": 9467.5,
+    "avatar": "https://avatars.githubusercontent.com/u/762626?v=4"
+  },
+  "10": {
+    "repoFullName": "cortesi/devd",
+    "totalPoints": 8695,
+    "avatar": "https://avatars.githubusercontent.com/u/22544?v=4"
+  },
+  "11": {
+    "repoFullName": "cortesi/modd",
+    "totalPoints": 7221,
+    "avatar": "https://avatars.githubusercontent.com/u/22544?v=4"
+  },
+  "12": {
+    "repoFullName": "benhoyt/inih",
+    "totalPoints": 7184,
+    "avatar": "https://avatars.githubusercontent.com/u/999033?v=4"
+  },
+  "13": {
+    "repoFullName": "rusq/slackdump",
+    "totalPoints": 5136,
+    "avatar": "https://avatars.githubusercontent.com/u/16064414?v=4"
+  },
+  "14": {
+    "repoFullName": "benhoyt/goawk",
+    "totalPoints": 4999,
+    "avatar": "https://avatars.githubusercontent.com/u/999033?v=4"
+  },
+  "15": {
+    "repoFullName": "lukemurraynz/awesome-azure-architecture",
+    "totalPoints": 4188.5,
+    "avatar": "https://avatars.githubusercontent.com/u/24467442?v=4"
+  },
+  "16": {
+    "repoFullName": "SmileyChris/django-countries",
+    "totalPoints": 3815.5,
+    "avatar": "https://avatars.githubusercontent.com/u/109951?v=4"
+  },
+  "17": {
+    "repoFullName": "elalish/manifold",
+    "totalPoints": 3680,
+    "avatar": "https://avatars.githubusercontent.com/u/1649964?v=4"
+  },
+  "18": {
+    "repoFullName": "hardbyte/python-can",
+    "totalPoints": 3673,
+    "avatar": "https://avatars.githubusercontent.com/u/855189?v=4"
+  },
+  "19": {
+    "repoFullName": "SmileyChris/easy-thumbnails",
+    "totalPoints": 3569,
+    "avatar": "https://avatars.githubusercontent.com/u/109951?v=4"
+  },
+  "20": {
+    "repoFullName": "RichardLitt/awesome-fantasy",
+    "totalPoints": 3524.5,
+    "avatar": "https://avatars.githubusercontent.com/u/910753?v=4"
+  },
+  "21": {
+    "repoFullName": "sebastien/cuisine",
+    "totalPoints": 3199.5,
+    "avatar": "https://avatars.githubusercontent.com/u/14598?v=4"
+  },
+  "22": {
+    "repoFullName": "scottmckendry/cyberdream.nvim",
+    "totalPoints": 2653,
+    "avatar": "https://avatars.githubusercontent.com/u/39483124?v=4"
+  },
+  "23": {
+    "repoFullName": "yangzhongke/NETBookMaterials",
+    "totalPoints": 2484.5,
+    "avatar": "https://avatars.githubusercontent.com/u/13821363?v=4"
+  },
+  "24": {
+    "repoFullName": "alangrainger/immich-public-proxy",
+    "totalPoints": 2221,
+    "avatar": "https://avatars.githubusercontent.com/u/16197738?v=4"
+  },
+  "25": {
+    "repoFullName": "RichardLitt/awesome-conferences",
+    "totalPoints": 2002.5,
+    "avatar": "https://avatars.githubusercontent.com/u/910753?v=4"
+  },
+  "26": {
+    "repoFullName": "ultraq/thymeleaf-layout-dialect",
+    "totalPoints": 1877.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1686920?v=4"
+  },
+  "27": {
+    "repoFullName": "mikedilger/gossip",
+    "totalPoints": 1846,
+    "avatar": "https://avatars.githubusercontent.com/u/1669069?v=4"
+  },
+  "28": {
+    "repoFullName": "RichardLitt/awesome-styleguides",
+    "totalPoints": 1837.5,
+    "avatar": "https://avatars.githubusercontent.com/u/910753?v=4"
+  },
+  "29": {
+    "repoFullName": "yangzhongke/Zack.EFCore.Batch",
+    "totalPoints": 1551.5,
+    "avatar": "https://avatars.githubusercontent.com/u/13821363?v=4"
+  },
+  "30": {
+    "repoFullName": "nrc/derive-new",
+    "totalPoints": 1403,
+    "avatar": "https://avatars.githubusercontent.com/u/762626?v=4"
+  },
+  "31": {
+    "repoFullName": "harbassan/spicetify-apps",
+    "totalPoints": 1362,
+    "avatar": "https://avatars.githubusercontent.com/u/84175605?v=4"
+  },
+  "32": {
+    "repoFullName": "cortesi/scurve",
+    "totalPoints": 1322,
+    "avatar": "https://avatars.githubusercontent.com/u/22544?v=4"
+  },
+  "33": {
+    "repoFullName": "alangrainger/share-note",
+    "totalPoints": 1175,
+    "avatar": "https://avatars.githubusercontent.com/u/16197738?v=4"
+  },
+  "34": {
+    "repoFullName": "sebastien/monitoring",
+    "totalPoints": 1105.5,
+    "avatar": "https://avatars.githubusercontent.com/u/14598?v=4"
+  },
+  "35": {
+    "repoFullName": "majutsushi/urxvt-font-size",
+    "totalPoints": 1094,
+    "avatar": "https://avatars.githubusercontent.com/u/465527?v=4"
+  },
+  "36": {
+    "repoFullName": "gbmhunter/CppLinuxSerial",
+    "totalPoints": 1076.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2396869?v=4"
+  },
+  "37": {
+    "repoFullName": "alexcheng1982/docker-magento2",
+    "totalPoints": 1049.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1171472?v=4"
+  },
+  "38": {
+    "repoFullName": "jblance/mpp-solar",
+    "totalPoints": 1030,
+    "avatar": "https://avatars.githubusercontent.com/u/1266998?v=4"
+  },
+  "39": {
+    "repoFullName": "liamcottle/reticulum-meshchat",
+    "totalPoints": 1028,
+    "avatar": "https://avatars.githubusercontent.com/u/3173581?v=4"
+  },
+  "40": {
+    "repoFullName": "scottmckendry/Windots",
+    "totalPoints": 973.5,
+    "avatar": "https://avatars.githubusercontent.com/u/39483124?v=4"
+  },
+  "41": {
+    "repoFullName": "yangzhongke/Zack.DotNetTrimmer",
+    "totalPoints": 963,
+    "avatar": "https://avatars.githubusercontent.com/u/13821363?v=4"
+  },
+  "42": {
+    "repoFullName": "matthuisman/i.mjh.nz",
+    "totalPoints": 949,
+    "avatar": "https://avatars.githubusercontent.com/u/6225961?v=4"
+  },
+  "43": {
+    "repoFullName": "benhoyt/dhash",
+    "totalPoints": 935.5,
+    "avatar": "https://avatars.githubusercontent.com/u/999033?v=4"
+  },
+  "44": {
+    "repoFullName": "alangrainger/obsidian-lazy-plugins",
+    "totalPoints": 928,
+    "avatar": "https://avatars.githubusercontent.com/u/16197738?v=4"
+  },
+  "45": {
+    "repoFullName": "sbusso/Bear-Power-Pack",
+    "totalPoints": 904.5,
+    "avatar": "https://avatars.githubusercontent.com/u/346?v=4"
+  },
+  "46": {
+    "repoFullName": "k-yle/rtsp-relay",
+    "totalPoints": 899,
+    "avatar": "https://avatars.githubusercontent.com/u/16009897?v=4"
+  },
+  "47": {
+    "repoFullName": "matthuisman/slyguy.addons",
+    "totalPoints": 873,
+    "avatar": "https://avatars.githubusercontent.com/u/6225961?v=4"
+  },
+  "48": {
+    "repoFullName": "odow/SDDP.jl",
+    "totalPoints": 863,
+    "avatar": "https://avatars.githubusercontent.com/u/8177701?v=4"
+  },
+  "49": {
+    "repoFullName": "claudiabdm/cvfy",
+    "totalPoints": 861.5,
+    "avatar": "https://avatars.githubusercontent.com/u/44007726?v=4"
+  },
+  "50": {
+    "repoFullName": "mosajjal/dnsmonster",
+    "totalPoints": 856,
+    "avatar": "https://avatars.githubusercontent.com/u/10158936?v=4"
+  }
+}
