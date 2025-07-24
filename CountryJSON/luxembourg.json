@@ -1,0 +1,252 @@
+{
+  "1": {
+    "repoFullName": "255kb/stack-on-a-budget",
+    "totalPoints": 30914.5,
+    "avatar": "https://avatars.githubusercontent.com/u/7489814?v=4"
+  },
+  "2": {
+    "repoFullName": "qdm12/gluetun",
+    "totalPoints": 25956.5,
+    "avatar": "https://avatars.githubusercontent.com/u/15654980?v=4"
+  },
+  "3": {
+    "repoFullName": "qdm12/ddns-updater",
+    "totalPoints": 6141,
+    "avatar": "https://avatars.githubusercontent.com/u/15654980?v=4"
+  },
+  "4": {
+    "repoFullName": "joewdavies/geoblender",
+    "totalPoints": 4324,
+    "avatar": "https://avatars.githubusercontent.com/u/25485293?v=4"
+  },
+  "5": {
+    "repoFullName": "keepassium/KeePassium",
+    "totalPoints": 3430.5,
+    "avatar": "https://avatars.githubusercontent.com/u/38399598?v=4"
+  },
+  "6": {
+    "repoFullName": "upekkha/AppleHardwareTest",
+    "totalPoints": 2994,
+    "avatar": "https://avatars.githubusercontent.com/u/203526?v=4"
+  },
+  "7": {
+    "repoFullName": "kimwalisch/primesieve",
+    "totalPoints": 2619.5,
+    "avatar": "https://avatars.githubusercontent.com/u/4656219?v=4"
+  },
+  "8": {
+    "repoFullName": "morteza/bootstrap-rtl",
+    "totalPoints": 2541.5,
+    "avatar": "https://avatars.githubusercontent.com/u/222198?v=4"
+  },
+  "9": {
+    "repoFullName": "dzove855/Bash-web-server",
+    "totalPoints": 2448.5,
+    "avatar": "https://avatars.githubusercontent.com/u/23619190?v=4"
+  },
+  "10": {
+    "repoFullName": "ekkinox/yai",
+    "totalPoints": 2022,
+    "avatar": "https://avatars.githubusercontent.com/u/6922385?v=4"
+  },
+  "11": {
+    "repoFullName": "paillave/Etl.Net",
+    "totalPoints": 1906,
+    "avatar": "https://avatars.githubusercontent.com/u/4611176?v=4"
+  },
+  "12": {
+    "repoFullName": "tinovyatkin/pass-js",
+    "totalPoints": 1787.5,
+    "avatar": "https://avatars.githubusercontent.com/u/5350898?v=4"
+  },
+  "13": {
+    "repoFullName": "qdm12/gluetun-wiki",
+    "totalPoints": 1711.5,
+    "avatar": "https://avatars.githubusercontent.com/u/15654980?v=4"
+  },
+  "14": {
+    "repoFullName": "joewdavies/awesome-frontend-gis",
+    "totalPoints": 1446,
+    "avatar": "https://avatars.githubusercontent.com/u/25485293?v=4"
+  },
+  "15": {
+    "repoFullName": "filaPro/oneformer3d",
+    "totalPoints": 1237,
+    "avatar": "https://avatars.githubusercontent.com/u/6030962?v=4"
+  },
+  "16": {
+    "repoFullName": "AndrejOrsula/drl_grasping",
+    "totalPoints": 1201,
+    "avatar": "https://avatars.githubusercontent.com/u/22929099?v=4"
+  },
+  "17": {
+    "repoFullName": "barnumbirr/coinmarketcap",
+    "totalPoints": 1135.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2029239?v=4"
+  },
+  "18": {
+    "repoFullName": "fmind/cookiecutter-mlops-package",
+    "totalPoints": 1064,
+    "avatar": "https://avatars.githubusercontent.com/u/3929438?v=4"
+  },
+  "19": {
+    "repoFullName": "lalabuy948/PhoenixAnalytics",
+    "totalPoints": 990.5,
+    "avatar": "https://avatars.githubusercontent.com/u/24271777?v=4"
+  },
+  "20": {
+    "repoFullName": "onizet/html2openxml",
+    "totalPoints": 986,
+    "avatar": "https://avatars.githubusercontent.com/u/6703260?v=4"
+  },
+  "21": {
+    "repoFullName": "kimwalisch/libpopcnt",
+    "totalPoints": 890,
+    "avatar": "https://avatars.githubusercontent.com/u/4656219?v=4"
+  },
+  "22": {
+    "repoFullName": "phcollignon/helm3",
+    "totalPoints": 884,
+    "avatar": "https://avatars.githubusercontent.com/u/7680604?v=4"
+  },
+  "23": {
+    "repoFullName": "dbarzin/mercator",
+    "totalPoints": 875.5,
+    "avatar": "https://avatars.githubusercontent.com/u/43208232?v=4"
+  },
+  "24": {
+    "repoFullName": "kimwalisch/primecount",
+    "totalPoints": 846,
+    "avatar": "https://avatars.githubusercontent.com/u/4656219?v=4"
+  },
+  "25": {
+    "repoFullName": "exaexa/codecrypt",
+    "totalPoints": 815.5,
+    "avatar": "https://avatars.githubusercontent.com/u/271543?v=4"
+  },
+  "26": {
+    "repoFullName": "tinesoft/nxrocks",
+    "totalPoints": 800,
+    "avatar": "https://avatars.githubusercontent.com/u/4053092?v=4"
+  },
+  "27": {
+    "repoFullName": "dbarzin/deming",
+    "totalPoints": 765,
+    "avatar": "https://avatars.githubusercontent.com/u/43208232?v=4"
+  },
+  "28": {
+    "repoFullName": "ywelsch/duckdb-prql",
+    "totalPoints": 732,
+    "avatar": "https://avatars.githubusercontent.com/u/3718355?v=4"
+  },
+  "29": {
+    "repoFullName": "AndrejOrsula/pymoveit2",
+    "totalPoints": 650.5,
+    "avatar": "https://avatars.githubusercontent.com/u/22929099?v=4"
+  },
+  "30": {
+    "repoFullName": "righel/gitlab-version-nse",
+    "totalPoints": 621,
+    "avatar": "https://avatars.githubusercontent.com/u/1659902?v=4"
+  },
+  "31": {
+    "repoFullName": "exaexa/scattermore",
+    "totalPoints": 613,
+    "avatar": "https://avatars.githubusercontent.com/u/271543?v=4"
+  },
+  "32": {
+    "repoFullName": "SvenGDK/PS-Multi-Tools",
+    "totalPoints": 600,
+    "avatar": "https://avatars.githubusercontent.com/u/84620?v=4"
+  },
+  "33": {
+    "repoFullName": "ffraenz/private-composer-installer",
+    "totalPoints": 579.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1041468?v=4"
+  },
+  "34": {
+    "repoFullName": "Mincka/DMArchiver",
+    "totalPoints": 549.5,
+    "avatar": "https://avatars.githubusercontent.com/u/6184289?v=4"
+  },
+  "35": {
+    "repoFullName": "dtonhofer/prolog_notes",
+    "totalPoints": 477,
+    "avatar": "https://avatars.githubusercontent.com/u/483879?v=4"
+  },
+  "36": {
+    "repoFullName": "SvenGDK/XboxMediaUSB",
+    "totalPoints": 446.5,
+    "avatar": "https://avatars.githubusercontent.com/u/84620?v=4"
+  },
+  "37": {
+    "repoFullName": "tinesoft/ngx-cookieconsent",
+    "totalPoints": 412,
+    "avatar": "https://avatars.githubusercontent.com/u/4053092?v=4"
+  },
+  "38": {
+    "repoFullName": "boringthegod/postmaniac",
+    "totalPoints": 412,
+    "avatar": "https://avatars.githubusercontent.com/u/43401595?v=4"
+  },
+  "39": {
+    "repoFullName": "hridaybavle/semantic_slam",
+    "totalPoints": 391,
+    "avatar": "https://avatars.githubusercontent.com/u/13379060?v=4"
+  },
+  "40": {
+    "repoFullName": "barnumbirr/hazelnut",
+    "totalPoints": 371,
+    "avatar": "https://avatars.githubusercontent.com/u/2029239?v=4"
+  },
+  "41": {
+    "repoFullName": "AndrejOrsula/gz_moveit2_examples",
+    "totalPoints": 357,
+    "avatar": "https://avatars.githubusercontent.com/u/22929099?v=4"
+  },
+  "42": {
+    "repoFullName": "alitourani/yolo-license-plate-detection",
+    "totalPoints": 356,
+    "avatar": "https://avatars.githubusercontent.com/u/42409909?v=4"
+  },
+  "43": {
+    "repoFullName": "filaPro/cad-recode",
+    "totalPoints": 352.5,
+    "avatar": "https://avatars.githubusercontent.com/u/6030962?v=4"
+  },
+  "44": {
+    "repoFullName": "ptal/oak",
+    "totalPoints": 347,
+    "avatar": "https://avatars.githubusercontent.com/u/3127628?v=4"
+  },
+  "45": {
+    "repoFullName": "filaPro/unidet3d",
+    "totalPoints": 325,
+    "avatar": "https://avatars.githubusercontent.com/u/6030962?v=4"
+  },
+  "46": {
+    "repoFullName": "clawfire/covid19-passbook-generator",
+    "totalPoints": 314.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1178?v=4"
+  },
+  "47": {
+    "repoFullName": "SvenGDK/OrbisPro",
+    "totalPoints": 313,
+    "avatar": "https://avatars.githubusercontent.com/u/84620?v=4"
+  },
+  "48": {
+    "repoFullName": "ptal/expected",
+    "totalPoints": 274.5,
+    "avatar": "https://avatars.githubusercontent.com/u/3127628?v=4"
+  },
+  "49": {
+    "repoFullName": "ptal/pcp",
+    "totalPoints": 269.5,
+    "avatar": "https://avatars.githubusercontent.com/u/3127628?v=4"
+  },
+  "50": {
+    "repoFullName": "barnumbirr/alacritty-debian",
+    "totalPoints": 264.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2029239?v=4"
+  }
+}

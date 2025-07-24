@@ -1,12 +1,13 @@
-const fs = require("fs")
 require("dotenv").config()
+const fs = require("fs")
 const api = process.env.GITHUB_TOKEN
-
+console.log(api)
 async function getTopUsers(country) {
     const url = `https://committers.top/rank_only/${country}.json`;
     let response = await fetch(url);
     let data = await response.json();
-    let topUsers = data.user.slice(0, 5);
+    let topUsers = data.user.slice(0,250);
+    console.log(topUsers)
     // Filter users based on account age
     let filteredUsers = [];
     for (let i = 0; i < topUsers.length; i++) {
@@ -27,6 +28,7 @@ async function getTopUsers(country) {
             console.log(`ERROR fetching user ${topUsers[i]}`);
         }
     }
+    console.log(filteredUsers)
     return filteredUsers;
 }
 async function getTopRepos(users){
@@ -55,16 +57,16 @@ async function getTopRepos(users){
             console.log(`ERROR fetching repos for user ${users[i]}`);
         }
     }
-    BestProjects = BestProjects.sort((a, b) => b.totalPoints - a.totalPoints).slice(0, 10);
+    BestProjects = BestProjects.sort((a, b) => b.totalPoints - a.totalPoints).slice(0,50);
     return BestProjects;
 }
 
 // filter and post data 
 const country = process.argv[2];
 getTopUsers(country).then(filteredUsers => {
-    let TopList = '' , CountryJSON = {}
+    let CountryJSON = {}
     getTopRepos(filteredUsers).then(bestProjects=>{
-        for (let rank = 0; rank < bestProjects.length && rank < 15; rank++) {
+        for (let rank = 0; rank < bestProjects.length && rank < 50; rank++) {
             CountryJSON[String(rank+1)] = bestProjects[rank]
         }
         // write json code
@@ -75,8 +77,8 @@ getTopUsers(country).then(filteredUsers => {
                 console.error('Error writing file:', err);
                 return;
             }
+            // end
+            console.log(`${country} : done`)
         });
-        // end
-        console.log(`${country} : done`)
     }).catch(error=>console.log(error))
 });

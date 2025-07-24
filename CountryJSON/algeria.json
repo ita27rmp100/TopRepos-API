@@ -1,52 +1,252 @@
 {
   "1": {
+    "repoFullName": "BelkacemYerfa/shadcn-extension",
+    "totalPoints": 3155,
+    "avatar": "https://avatars.githubusercontent.com/u/106016365?v=4"
+  },
+  "2": {
+    "repoFullName": "abdallahmehiz/mpvKt",
+    "totalPoints": 2569,
+    "avatar": "https://avatars.githubusercontent.com/u/54363735?v=4"
+  },
+  "3": {
+    "repoFullName": "aissat/easy_localization",
+    "totalPoints": 2469.5,
+    "avatar": "https://avatars.githubusercontent.com/u/4768203?v=4"
+  },
+  "4": {
+    "repoFullName": "a-hamdi/GPU",
+    "totalPoints": 1192,
+    "avatar": "https://avatars.githubusercontent.com/u/80772549?v=4"
+  },
+  "5": {
+    "repoFullName": "linuxscout/pyarabic",
+    "totalPoints": 1185,
+    "avatar": "https://avatars.githubusercontent.com/u/450792?v=4"
+  },
+  "6": {
+    "repoFullName": "strlrd-29/hookcn",
+    "totalPoints": 909,
+    "avatar": "https://avatars.githubusercontent.com/u/70029024?v=4"
+  },
+  "7": {
+    "repoFullName": "linuxscout/mishkal",
+    "totalPoints": 754.5,
+    "avatar": "https://avatars.githubusercontent.com/u/450792?v=4"
+  },
+  "8": {
+    "repoFullName": "sb53systems/G-Code-Flow-Temperature-Controller",
+    "totalPoints": 605,
+    "avatar": "https://avatars.githubusercontent.com/u/33290411?v=4"
+  },
+  "9": {
+    "repoFullName": "ipenywis/nestjs-solid",
+    "totalPoints": 586.5,
+    "avatar": "https://avatars.githubusercontent.com/u/13965825?v=4"
+  },
+  "10": {
+    "repoFullName": "youknowriad/wp-js-plugin-starter",
+    "totalPoints": 556.5,
+    "avatar": "https://avatars.githubusercontent.com/u/272444?v=4"
+  },
+  "11": {
     "repoFullName": "yasserbdj96/hiphp",
     "totalPoints": 542,
     "avatar": "https://avatars.githubusercontent.com/u/24677945?v=4"
   },
-  "2": {
-    "repoFullName": "yasserbdj96/Followers-Bot-GithubAPI",
-    "totalPoints": 63,
-    "avatar": "https://avatars.githubusercontent.com/u/24677945?v=4"
+  "12": {
+    "repoFullName": "youknowriad/gcf",
+    "totalPoints": 474,
+    "avatar": "https://avatars.githubusercontent.com/u/272444?v=4"
   },
-  "3": {
-    "repoFullName": "adelpro/MERN-auth-roles-boilerplate",
-    "totalPoints": 59,
-    "avatar": "https://avatars.githubusercontent.com/u/47066151?v=4"
+  "13": {
+    "repoFullName": "kaymen99/aave-flashloan-arbitrage",
+    "totalPoints": 395.5,
+    "avatar": "https://avatars.githubusercontent.com/u/83681204?v=4"
   },
-  "4": {
-    "repoFullName": "adelpro/nextjs-view-transitions",
-    "totalPoints": 47.5,
-    "avatar": "https://avatars.githubusercontent.com/u/47066151?v=4"
+  "14": {
+    "repoFullName": "youknowriad/blockbook",
+    "totalPoints": 372,
+    "avatar": "https://avatars.githubusercontent.com/u/272444?v=4"
   },
-  "5": {
-    "repoFullName": "dr-saad-la/CS501-Deep-Learning-Complete-Course",
-    "totalPoints": 41,
-    "avatar": "https://avatars.githubusercontent.com/u/56449463?v=4"
+  "15": {
+    "repoFullName": "linuxscout/arramooz",
+    "totalPoints": 370.5,
+    "avatar": "https://avatars.githubusercontent.com/u/450792?v=4"
   },
-  "6": {
-    "repoFullName": "adelpro/Quranipfs",
-    "totalPoints": 38.5,
-    "avatar": "https://avatars.githubusercontent.com/u/47066151?v=4"
+  "16": {
+    "repoFullName": "ipenywis/modern-react-website",
+    "totalPoints": 370,
+    "avatar": "https://avatars.githubusercontent.com/u/13965825?v=4"
   },
-  "7": {
-    "repoFullName": "abdelillahbel/SkillSnapAndroid",
-    "totalPoints": 38,
-    "avatar": "https://avatars.githubusercontent.com/u/73066920?v=4"
+  "17": {
+    "repoFullName": "kaymen99/sales-outreach-automation-langgraph",
+    "totalPoints": 367.5,
+    "avatar": "https://avatars.githubusercontent.com/u/83681204?v=4"
   },
-  "8": {
-    "repoFullName": "yasserbdj96/artbot",
-    "totalPoints": 34.5,
-    "avatar": "https://avatars.githubusercontent.com/u/24677945?v=4"
+  "18": {
+    "repoFullName": "haithamaouati/BW11",
+    "totalPoints": 364,
+    "avatar": "https://avatars.githubusercontent.com/u/55059470?v=4"
   },
-  "9": {
-    "repoFullName": "abdelillahbel/WiniWalkAndroid",
-    "totalPoints": 30,
-    "avatar": "https://avatars.githubusercontent.com/u/73066920?v=4"
+  "19": {
+    "repoFullName": "kaymen99/langgraph-email-automation",
+    "totalPoints": 353,
+    "avatar": "https://avatars.githubusercontent.com/u/83681204?v=4"
   },
-  "10": {
-    "repoFullName": "Kadacheahmedrami/Assembly",
-    "totalPoints": 25,
-    "avatar": "https://avatars.githubusercontent.com/u/147886553?v=4"
+  "20": {
+    "repoFullName": "ayadseghairi/tornet",
+    "totalPoints": 318,
+    "avatar": "https://avatars.githubusercontent.com/u/85361584?v=4"
+  },
+  "21": {
+    "repoFullName": "ipenywis/clean-rest-apis",
+    "totalPoints": 313.5,
+    "avatar": "https://avatars.githubusercontent.com/u/13965825?v=4"
+  },
+  "22": {
+    "repoFullName": "chihebnabil/claude-ui",
+    "totalPoints": 302,
+    "avatar": "https://avatars.githubusercontent.com/u/2858391?v=4"
+  },
+  "23": {
+    "repoFullName": "strlrd-29/shadcn-ui-form-builder",
+    "totalPoints": 301,
+    "avatar": "https://avatars.githubusercontent.com/u/70029024?v=4"
+  },
+  "24": {
+    "repoFullName": "chrhi/studio",
+    "totalPoints": 281,
+    "avatar": "https://avatars.githubusercontent.com/u/116351398?v=4"
+  },
+  "25": {
+    "repoFullName": "L4z3x/mal-cli",
+    "totalPoints": 247.5,
+    "avatar": "https://avatars.githubusercontent.com/u/167608145?v=4"
+  },
+  "26": {
+    "repoFullName": "s77rt/react-native-date-picker",
+    "totalPoints": 237.5,
+    "avatar": "https://avatars.githubusercontent.com/u/16493223?v=4"
+  },
+  "27": {
+    "repoFullName": "Mezghenna-Mohanned/Chess-Engine-Jinxy",
+    "totalPoints": 206.5,
+    "avatar": "https://avatars.githubusercontent.com/u/154748750?v=4"
+  },
+  "28": {
+    "repoFullName": "dzlab/deeplearning.ai",
+    "totalPoints": 185.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1645304?v=4"
+  },
+  "29": {
+    "repoFullName": "aissat/easy_localization_loader",
+    "totalPoints": 180,
+    "avatar": "https://avatars.githubusercontent.com/u/4768203?v=4"
+  },
+  "30": {
+    "repoFullName": "0xHadyy/isl-python",
+    "totalPoints": 176.5,
+    "avatar": "https://avatars.githubusercontent.com/u/109419767?v=4"
+  },
+  "31": {
+    "repoFullName": "rehhouari/alpinejs-i18n",
+    "totalPoints": 167.5,
+    "avatar": "https://avatars.githubusercontent.com/u/78239768?v=4"
+  },
+  "32": {
+    "repoFullName": "BadreddineZatout/simple-laravel-cms",
+    "totalPoints": 163,
+    "avatar": "https://avatars.githubusercontent.com/u/57811383?v=4"
+  },
+  "33": {
+    "repoFullName": "abd0hrz/DevOps-projects",
+    "totalPoints": 152.5,
+    "avatar": "https://avatars.githubusercontent.com/u/63080277?v=4"
+  },
+  "34": {
+    "repoFullName": "abd0hrz/Doctor-appointment-booking-app",
+    "totalPoints": 147.5,
+    "avatar": "https://avatars.githubusercontent.com/u/63080277?v=4"
+  },
+  "35": {
+    "repoFullName": "beraoudabdelkhalek/siyar-celebrities",
+    "totalPoints": 147,
+    "avatar": "https://avatars.githubusercontent.com/u/89158254?v=4"
+  },
+  "36": {
+    "repoFullName": "ucfx/minimax-game-ai",
+    "totalPoints": 135,
+    "avatar": "https://avatars.githubusercontent.com/u/65844371?v=4"
+  },
+  "37": {
+    "repoFullName": "issam-seghir/Captions-AI",
+    "totalPoints": 133,
+    "avatar": "https://avatars.githubusercontent.com/u/74573675?v=4"
+  },
+  "38": {
+    "repoFullName": "strlrd-29/next-shadcn-theme-selector",
+    "totalPoints": 129,
+    "avatar": "https://avatars.githubusercontent.com/u/70029024?v=4"
+  },
+  "39": {
+    "repoFullName": "lumbrjx/obzev0",
+    "totalPoints": 129,
+    "avatar": "https://avatars.githubusercontent.com/u/88345999?v=4"
+  },
+  "40": {
+    "repoFullName": "Rics-Dev/uRead",
+    "totalPoints": 120.5,
+    "avatar": "https://avatars.githubusercontent.com/u/97336083?v=4"
+  },
+  "41": {
+    "repoFullName": "ibrahimBougaoua/filament-rating-star",
+    "totalPoints": 107,
+    "avatar": "https://avatars.githubusercontent.com/u/41789518?v=4"
+  },
+  "42": {
+    "repoFullName": "youben11/encrypted-evaluation",
+    "totalPoints": 105,
+    "avatar": "https://avatars.githubusercontent.com/u/21220087?v=4"
+  },
+  "43": {
+    "repoFullName": "dzlab/deepprojects",
+    "totalPoints": 103,
+    "avatar": "https://avatars.githubusercontent.com/u/1645304?v=4"
+  },
+  "44": {
+    "repoFullName": "haithamaouati/StagingTool",
+    "totalPoints": 99,
+    "avatar": "https://avatars.githubusercontent.com/u/55059470?v=4"
+  },
+  "45": {
+    "repoFullName": "chihebnabil/ScriptedYTShortsAI",
+    "totalPoints": 93.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2858391?v=4"
+  },
+  "46": {
+    "repoFullName": "chrhi/faria",
+    "totalPoints": 93.5,
+    "avatar": "https://avatars.githubusercontent.com/u/116351398?v=4"
+  },
+  "47": {
+    "repoFullName": "SARAH-HADDAD/Design-Resources",
+    "totalPoints": 90.5,
+    "avatar": "https://avatars.githubusercontent.com/u/88119247?v=4"
+  },
+  "48": {
+    "repoFullName": "Rics-Dev/project-explorer.nvim",
+    "totalPoints": 85.5,
+    "avatar": "https://avatars.githubusercontent.com/u/97336083?v=4"
+  },
+  "49": {
+    "repoFullName": "0xWerz/IG-Creator",
+    "totalPoints": 84.5,
+    "avatar": "https://avatars.githubusercontent.com/u/78509039?v=4"
+  },
+  "50": {
+    "repoFullName": "Achour/nextjs-better-auth",
+    "totalPoints": 82,
+    "avatar": "https://avatars.githubusercontent.com/u/2856254?v=4"
   }
 }

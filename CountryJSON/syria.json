@@ -1,0 +1,252 @@
+{
+  "1": {
+    "repoFullName": "HHHMHA/django-roadmap",
+    "totalPoints": 2016,
+    "avatar": "https://avatars.githubusercontent.com/u/37801310?v=4"
+  },
+  "2": {
+    "repoFullName": "firasuke/awesome",
+    "totalPoints": 562,
+    "avatar": "https://avatars.githubusercontent.com/u/46160727?v=4"
+  },
+  "3": {
+    "repoFullName": "chikobara/dotfiles",
+    "totalPoints": 386,
+    "avatar": "https://avatars.githubusercontent.com/u/29534140?v=4"
+  },
+  "4": {
+    "repoFullName": "firasuke/mussel",
+    "totalPoints": 289,
+    "avatar": "https://avatars.githubusercontent.com/u/46160727?v=4"
+  },
+  "5": {
+    "repoFullName": "youzarsiph/expo-react-native-paper",
+    "totalPoints": 204.5,
+    "avatar": "https://avatars.githubusercontent.com/u/93343012?v=4"
+  },
+  "6": {
+    "repoFullName": "CosmicFusion/fedora-amdgpu-pro",
+    "totalPoints": 203.5,
+    "avatar": "https://avatars.githubusercontent.com/u/83735213?v=4"
+  },
+  "7": {
+    "repoFullName": "ahmadnourallah/pysploit-framework",
+    "totalPoints": 82,
+    "avatar": "https://avatars.githubusercontent.com/u/22223093?v=4"
+  },
+  "8": {
+    "repoFullName": "youzarsiph/drf-redesign",
+    "totalPoints": 81.5,
+    "avatar": "https://avatars.githubusercontent.com/u/93343012?v=4"
+  },
+  "9": {
+    "repoFullName": "nebrassy/device_xiaomi_vayu-TWRP",
+    "totalPoints": 77.5,
+    "avatar": "https://avatars.githubusercontent.com/u/15095738?v=4"
+  },
+  "10": {
+    "repoFullName": "nebrassy/device_xiaomi_alioth-TWRP",
+    "totalPoints": 65.5,
+    "avatar": "https://avatars.githubusercontent.com/u/15095738?v=4"
+  },
+  "11": {
+    "repoFullName": "ObaidaNa/syria-marks",
+    "totalPoints": 64,
+    "avatar": "https://avatars.githubusercontent.com/u/59305605?v=4"
+  },
+  "12": {
+    "repoFullName": "nebrassy/device_xiaomi_sweet-TWRP",
+    "totalPoints": 62.5,
+    "avatar": "https://avatars.githubusercontent.com/u/15095738?v=4"
+  },
+  "13": {
+    "repoFullName": "chikobara/GPU-Switcher-Supergfxctl",
+    "totalPoints": 58,
+    "avatar": "https://avatars.githubusercontent.com/u/29534140?v=4"
+  },
+  "14": {
+    "repoFullName": "Zaid-Al-Habbal/cham-city-3D",
+    "totalPoints": 58,
+    "avatar": "https://avatars.githubusercontent.com/u/123406071?v=4"
+  },
+  "15": {
+    "repoFullName": "SaleemAdhamKassab/ProblemSolving",
+    "totalPoints": 56,
+    "avatar": "https://avatars.githubusercontent.com/u/79147255?v=4"
+  },
+  "16": {
+    "repoFullName": "ahmadnourallah/SEF",
+    "totalPoints": 52,
+    "avatar": "https://avatars.githubusercontent.com/u/22223093?v=4"
+  },
+  "17": {
+    "repoFullName": "youzarsiph/drf-restwind",
+    "totalPoints": 48,
+    "avatar": "https://avatars.githubusercontent.com/u/93343012?v=4"
+  },
+  "18": {
+    "repoFullName": "Rami-Sabbagh/LoveZip",
+    "totalPoints": 47.5,
+    "avatar": "https://avatars.githubusercontent.com/u/6272475?v=4"
+  },
+  "19": {
+    "repoFullName": "EyasWannous/school_management_system_flutter",
+    "totalPoints": 47,
+    "avatar": "https://avatars.githubusercontent.com/u/119857185?v=4"
+  },
+  "20": {
+    "repoFullName": "Rami-Sabbagh/love-pe",
+    "totalPoints": 47,
+    "avatar": "https://avatars.githubusercontent.com/u/6272475?v=4"
+  },
+  "21": {
+    "repoFullName": "Rami-Sabbagh/Texture-Unpacker",
+    "totalPoints": 42.5,
+    "avatar": "https://avatars.githubusercontent.com/u/6272475?v=4"
+  },
+  "22": {
+    "repoFullName": "abdnh/anki-wiktionary",
+    "totalPoints": 41,
+    "avatar": "https://avatars.githubusercontent.com/u/41397710?v=4"
+  },
+  "23": {
+    "repoFullName": "Ahmad-Nour-Haidar/pharmageddon-mobile",
+    "totalPoints": 37.5,
+    "avatar": "https://avatars.githubusercontent.com/u/151964135?v=4"
+  },
+  "24": {
+    "repoFullName": "MuhammadSulaiman001/opengl-lab",
+    "totalPoints": 37.5,
+    "avatar": "https://avatars.githubusercontent.com/u/36730723?v=4"
+  },
+  "25": {
+    "repoFullName": "CosmicFusion/fedora-kernel-manager",
+    "totalPoints": 33.5,
+    "avatar": "https://avatars.githubusercontent.com/u/83735213?v=4"
+  },
+  "26": {
+    "repoFullName": "ahmadshahal/tawfeer",
+    "totalPoints": 32.5,
+    "avatar": "https://avatars.githubusercontent.com/u/57716361?v=4"
+  },
+  "27": {
+    "repoFullName": "firasuke/DOTSLASHLINUX",
+    "totalPoints": 32,
+    "avatar": "https://avatars.githubusercontent.com/u/46160727?v=4"
+  },
+  "28": {
+    "repoFullName": "MuhammadSulaiman001/prolog-lab",
+    "totalPoints": 31,
+    "avatar": "https://avatars.githubusercontent.com/u/36730723?v=4"
+  },
+  "29": {
+    "repoFullName": "abdnh/anki-copycat-importer",
+    "totalPoints": 27.5,
+    "avatar": "https://avatars.githubusercontent.com/u/41397710?v=4"
+  },
+  "30": {
+    "repoFullName": "ObaidaNa/syria-marks-bot",
+    "totalPoints": 27.5,
+    "avatar": "https://avatars.githubusercontent.com/u/59305605?v=4"
+  },
+  "31": {
+    "repoFullName": "k3rnel-paN1c5/Delta",
+    "totalPoints": 25,
+    "avatar": "https://avatars.githubusercontent.com/u/121313953?v=4"
+  },
+  "32": {
+    "repoFullName": "Eng-Hasan-Hajjar/Eng-Hasan-Hajjar",
+    "totalPoints": 25,
+    "avatar": "https://avatars.githubusercontent.com/u/110938732?v=4"
+  },
+  "33": {
+    "repoFullName": "YaraGh22-engs/Secure-ASP-.NET-Core-8-API-with-JWT-Authentication-and-Refresh-Token",
+    "totalPoints": 25,
+    "avatar": "https://avatars.githubusercontent.com/u/50365379?v=4"
+  },
+  "34": {
+    "repoFullName": "ahmadnourallah/exploreflask",
+    "totalPoints": 24.5,
+    "avatar": "https://avatars.githubusercontent.com/u/22223093?v=4"
+  },
+  "35": {
+    "repoFullName": "Abdalrahman-Alhamod/Books",
+    "totalPoints": 24.5,
+    "avatar": "https://avatars.githubusercontent.com/u/137921143?v=4"
+  },
+  "36": {
+    "repoFullName": "Philip-Droubi/Laravel-Sanctum-Socialite-example",
+    "totalPoints": 23,
+    "avatar": "https://avatars.githubusercontent.com/u/83915007?v=4"
+  },
+  "37": {
+    "repoFullName": "Ahmad-Nour-Haidar/pharmageddon-web",
+    "totalPoints": 22.5,
+    "avatar": "https://avatars.githubusercontent.com/u/151964135?v=4"
+  },
+  "38": {
+    "repoFullName": "Eng-Hasan-Hajjar/Hajjar_Estate",
+    "totalPoints": 22.5,
+    "avatar": "https://avatars.githubusercontent.com/u/110938732?v=4"
+  },
+  "39": {
+    "repoFullName": "offpic/ILI9488-DMA-SPI-STM32-4-3.95-INCH-STM32F103-TOUCH",
+    "totalPoints": 21.5,
+    "avatar": "https://avatars.githubusercontent.com/u/31142397?v=4"
+  },
+  "40": {
+    "repoFullName": "offpic/3.5-ILI9488-SPI-DMA-STM32-GUI-STM32F401",
+    "totalPoints": 20,
+    "avatar": "https://avatars.githubusercontent.com/u/31142397?v=4"
+  },
+  "41": {
+    "repoFullName": "offpic/AVI-PLAYER-Video-Player-STM32-ILI9341-SPI-TFT-STM32F401-VADROV-code",
+    "totalPoints": 20,
+    "avatar": "https://avatars.githubusercontent.com/u/31142397?v=4"
+  },
+  "42": {
+    "repoFullName": "Eng-Hasan-Hajjar/Ecommerce-Hajjar",
+    "totalPoints": 20,
+    "avatar": "https://avatars.githubusercontent.com/u/110938732?v=4"
+  },
+  "43": {
+    "repoFullName": "Abdalrahman-Alhamod/MedHub-Mobile",
+    "totalPoints": 20,
+    "avatar": "https://avatars.githubusercontent.com/u/137921143?v=4"
+  },
+  "44": {
+    "repoFullName": "SalmanMohsen/Auction-Guard",
+    "totalPoints": 20,
+    "avatar": "https://avatars.githubusercontent.com/u/73441527?v=4"
+  },
+  "45": {
+    "repoFullName": "ahmadshahal/Notepad",
+    "totalPoints": 20,
+    "avatar": "https://avatars.githubusercontent.com/u/57716361?v=4"
+  },
+  "46": {
+    "repoFullName": "DMouayad/taggy",
+    "totalPoints": 19,
+    "avatar": "https://avatars.githubusercontent.com/u/82384138?v=4"
+  },
+  "47": {
+    "repoFullName": "noradlb1/Amazon-Gift-Card-Checker",
+    "totalPoints": 19,
+    "avatar": "https://avatars.githubusercontent.com/u/74623428?v=4"
+  },
+  "48": {
+    "repoFullName": "simabilony/book_store",
+    "totalPoints": 16.5,
+    "avatar": "https://avatars.githubusercontent.com/u/115995955?v=4"
+  },
+  "49": {
+    "repoFullName": "abdnh/anki-zim-reader",
+    "totalPoints": 15.5,
+    "avatar": "https://avatars.githubusercontent.com/u/41397710?v=4"
+  },
+  "50": {
+    "repoFullName": "Ahmad-Nour-Haidar/tarwika",
+    "totalPoints": 15,
+    "avatar": "https://avatars.githubusercontent.com/u/151964135?v=4"
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "1": {
+    "repoFullName": "torvalds/linux",
+    "totalPoints": 523104.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1024025?v=4"
+  },
+  "2": {
+    "repoFullName": "jlevy/the-art-of-command-line",
+    "totalPoints": 399974,
+    "avatar": "https://avatars.githubusercontent.com/u/2058167?v=4"
+  },
+  "3": {
+    "repoFullName": "virattt/ai-hedge-fund",
+    "totalPoints": 99133.5,
+    "avatar": "https://avatars.githubusercontent.com/u/901795?v=4"
+  },
+  "4": {
+    "repoFullName": "jgm/pandoc",
+    "totalPoints": 96759,
+    "avatar": "https://avatars.githubusercontent.com/u/3044?v=4"
+  },
+  "5": {
+    "repoFullName": "ChrisTitusTech/winutil",
+    "totalPoints": 95171.5,
+    "avatar": "https://avatars.githubusercontent.com/u/7896101?v=4"
+  },
+  "6": {
+    "repoFullName": "ggreer/the_silver_searcher",
+    "totalPoints": 66930.5,
+    "avatar": "https://avatars.githubusercontent.com/u/200121?v=4"
+  },
+  "7": {
+    "repoFullName": "JakeWharton/butterknife",
+    "totalPoints": 65932,
+    "avatar": "https://avatars.githubusercontent.com/u/66577?v=4"
+  },
+  "8": {
+    "repoFullName": "valyala/fasthttp",
+    "totalPoints": 57691,
+    "avatar": "https://avatars.githubusercontent.com/u/283442?v=4"
+  },
+  "9": {
+    "repoFullName": "zhaoolee/ChromeAppHeroes",
+    "totalPoints": 57182,
+    "avatar": "https://avatars.githubusercontent.com/u/15868458?v=4"
+  },
+  "10": {
+    "repoFullName": "motdotla/dotenv",
+    "totalPoints": 50164.5,
+    "avatar": "https://avatars.githubusercontent.com/u/3848?v=4"
+  },
+  "11": {
+    "repoFullName": "inancgumus/learngo",
+    "totalPoints": 49815,
+    "avatar": "https://avatars.githubusercontent.com/u/621232?v=4"
+  },
+  "12": {
+    "repoFullName": "ardalis/CleanArchitecture",
+    "totalPoints": 44511,
+    "avatar": "https://avatars.githubusercontent.com/u/782127?v=4"
+  },
+  "13": {
+    "repoFullName": "gnachman/iTerm2",
+    "totalPoints": 40911,
+    "avatar": "https://avatars.githubusercontent.com/u/427546?v=4"
+  },
+  "14": {
+    "repoFullName": "mxcl/PromiseKit",
+    "totalPoints": 36370,
+    "avatar": "https://avatars.githubusercontent.com/u/58962?v=4"
+  },
+  "15": {
+    "repoFullName": "zhaoolee/ChineseBQB",
+    "totalPoints": 36290.5,
+    "avatar": "https://avatars.githubusercontent.com/u/15868458?v=4"
+  },
+  "16": {
+    "repoFullName": "joelparkerhenderson/architecture-decision-record",
+    "totalPoints": 35443.5,
+    "avatar": "https://avatars.githubusercontent.com/u/27145?v=4"
+  },
+  "17": {
+    "repoFullName": "felangel/bloc",
+    "totalPoints": 32149.5,
+    "avatar": "https://avatars.githubusercontent.com/u/8855632?v=4"
+  },
+  "18": {
+    "repoFullName": "mytechnotalent/Reverse-Engineering",
+    "totalPoints": 31693,
+    "avatar": "https://avatars.githubusercontent.com/u/7095767?v=4"
+  },
+  "19": {
+    "repoFullName": "GloriousEggroll/proton-ge-custom",
+    "totalPoints": 29560.5,
+    "avatar": "https://avatars.githubusercontent.com/u/11287837?v=4"
+  },
+  "20": {
+    "repoFullName": "lucidrains/DALLE2-pytorch",
+    "totalPoints": 28714,
+    "avatar": "https://avatars.githubusercontent.com/u/108653?v=4"
+  },
+  "21": {
+    "repoFullName": "jlevy/og-equity-compensation",
+    "totalPoints": 28609,
+    "avatar": "https://avatars.githubusercontent.com/u/2058167?v=4"
+  },
+  "22": {
+    "repoFullName": "stephencelis/SQLite.swift",
+    "totalPoints": 25598,
+    "avatar": "https://avatars.githubusercontent.com/u/658?v=4"
+  },
+  "23": {
+    "repoFullName": "Cyan4973/xxHash",
+    "totalPoints": 25507.5,
+    "avatar": "https://avatars.githubusercontent.com/u/750081?v=4"
+  },
+  "24": {
+    "repoFullName": "lucidrains/denoising-diffusion-pytorch",
+    "totalPoints": 24637,
+    "avatar": "https://avatars.githubusercontent.com/u/108653?v=4"
+  },
+  "25": {
+    "repoFullName": "geerlingguy/ansible-for-devops",
+    "totalPoints": 24572,
+    "avatar": "https://avatars.githubusercontent.com/u/481677?v=4"
+  },
+  "26": {
+    "repoFullName": "jgamblin/Mirai-Source-Code",
+    "totalPoints": 23967,
+    "avatar": "https://avatars.githubusercontent.com/u/8428124?v=4"
+  },
+  "27": {
+    "repoFullName": "zardus/ctf-tools",
+    "totalPoints": 23382,
+    "avatar": "https://avatars.githubusercontent.com/u/3453847?v=4"
+  },
+  "28": {
+    "repoFullName": "kean/Nuke",
+    "totalPoints": 21223,
+    "avatar": "https://avatars.githubusercontent.com/u/1567433?v=4"
+  },
+  "29": {
+    "repoFullName": "mitchellh/mapstructure",
+    "totalPoints": 20293,
+    "avatar": "https://avatars.githubusercontent.com/u/1299?v=4"
+  },
+  "30": {
+    "repoFullName": "JakeWharton/hugo",
+    "totalPoints": 20160,
+    "avatar": "https://avatars.githubusercontent.com/u/66577?v=4"
+  },
+  "31": {
+    "repoFullName": "JakeWharton/ActionBarSherlock",
+    "totalPoints": 19361,
+    "avatar": "https://avatars.githubusercontent.com/u/66577?v=4"
+  },
+  "32": {
+    "repoFullName": "koush/AndroidAsync",
+    "totalPoints": 19285,
+    "avatar": "https://avatars.githubusercontent.com/u/73924?v=4"
+  },
+  "33": {
+    "repoFullName": "kennethreitz/records",
+    "totalPoints": 18264,
+    "avatar": "https://avatars.githubusercontent.com/u/119893?v=4"
+  },
+  "34": {
+    "repoFullName": "LeaVerou/awesomplete",
+    "totalPoints": 17570,
+    "avatar": "https://avatars.githubusercontent.com/u/175836?v=4"
+  },
+  "35": {
+    "repoFullName": "kean/Pulse",
+    "totalPoints": 16889.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1567433?v=4"
+  },
+  "36": {
+    "repoFullName": "jverkoey/nimbus",
+    "totalPoints": 16701.5,
+    "avatar": "https://avatars.githubusercontent.com/u/45670?v=4"
+  },
+  "37": {
+    "repoFullName": "zeux/meshoptimizer",
+    "totalPoints": 16512.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1106629?v=4"
+  },
+  "38": {
+    "repoFullName": "ankane/chartkick",
+    "totalPoints": 16412.5,
+    "avatar": "https://avatars.githubusercontent.com/u/220358?v=4"
+  },
+  "39": {
+    "repoFullName": "vladmandic/sdnext",
+    "totalPoints": 16340.5,
+    "avatar": "https://avatars.githubusercontent.com/u/57876960?v=4"
+  },
+  "40": {
+    "repoFullName": "geohot/fromthetransistor",
+    "totalPoints": 15895,
+    "avatar": "https://avatars.githubusercontent.com/u/72895?v=4"
+  },
+  "41": {
+    "repoFullName": "dtolnay/cxx",
+    "totalPoints": 15853,
+    "avatar": "https://avatars.githubusercontent.com/u/1940490?v=4"
+  },
+  "42": {
+    "repoFullName": "dtolnay/anyhow",
+    "totalPoints": 15238,
+    "avatar": "https://avatars.githubusercontent.com/u/1940490?v=4"
+  },
+  "43": {
+    "repoFullName": "lucidrains/DALLE-pytorch",
+    "totalPoints": 14245.5,
+    "avatar": "https://avatars.githubusercontent.com/u/108653?v=4"
+  },
+  "44": {
+    "repoFullName": "rmosolgo/graphql-ruby",
+    "totalPoints": 14145.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2231765?v=4"
+  },
+  "45": {
+    "repoFullName": "gboeing/osmnx",
+    "totalPoints": 13436,
+    "avatar": "https://avatars.githubusercontent.com/u/4977197?v=4"
+  },
+  "46": {
+    "repoFullName": "Marak/colors.js",
+    "totalPoints": 13106.5,
+    "avatar": "https://avatars.githubusercontent.com/u/70011?v=4"
+  },
+  "47": {
+    "repoFullName": "mmp/pbrt-v3",
+    "totalPoints": 13091.5,
+    "avatar": "https://avatars.githubusercontent.com/u/102567?v=4"
+  },
+  "48": {
+    "repoFullName": "umputun/remark42",
+    "totalPoints": 13048.5,
+    "avatar": "https://avatars.githubusercontent.com/u/535880?v=4"
+  },
+  "49": {
+    "repoFullName": "ankane/blazer",
+    "totalPoints": 11942.5,
+    "avatar": "https://avatars.githubusercontent.com/u/220358?v=4"
+  },
+  "50": {
+    "repoFullName": "dtolnay/proc-macro-workshop",
+    "totalPoints": 11930.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1940490?v=4"
+  }
+}
